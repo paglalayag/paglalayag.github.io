@@ -1,5 +1,4 @@
 pages:
   - {name: 'About', url: 'about.html'}
-  - {name: 'Contact', url: 'contact.html'}
-  - {name: 'Archive', url: 'archive.html'}
-  - {name: 'Get YAMT', url: 'https://github.com/PandaSekh/Jekyll-YAMT'}
+  - {name: 'Sample', url: '2021/07/07/maiden-voyage.html'}
+  - {name: 'Subscribe', url: 'https://ck.paglalayag.net/'}

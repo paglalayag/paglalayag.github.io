@@ -32,6 +32,7 @@ pre.lineo{
 .highlight .c, .highlight .ch, .highlight .cd, .highlight .cpf {
   color: #75715e;
   font-style: italic;
+  text-align: center;
 }
 .highlight .cm {
   color: #75715e;
@@ -259,4 +260,9 @@ figure.highlight pre code[data-lang]::before, div.highlight pre code[data-lang]:
   min-width: 40px;
   text-align: center;
   background-color: #49483e;
+}
+
+#site_title {
+  float: none;
+  left: 50%;
 }

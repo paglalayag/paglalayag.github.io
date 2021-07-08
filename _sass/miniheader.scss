@@ -1,0 +1,33 @@
+#miniheader{
+    img {
+        float: left;
+        width: 80px;
+    }
+    position: relative;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    overflow: hidden;
+    display: block;
+    margin-top: 15px;
+        .minipages{
+            width: 80%;
+            text-align: right;
+            display: block;
+    
+            position: absolute;
+            bottom: 0;
+            right: 0;
+
+            a:hover{
+                color: black;
+            }
+            a{
+                text-decoration: none;
+                color: $base; 
+                margin-right: 3px;
+                font-size: 1.05rem;
+            }
+        }
+}

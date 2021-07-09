@@ -18,4 +18,4 @@ So I guess we finally found an excuse to take a trip.
 ## Editor
 [Allan Gray](https://www.sunetrike.com/team/al-gray) - sunEtrike 
 
-![Mic n Al](assets/img/al-n-mic.png)
+![Mic n Al](assets/img/al-n-mic.jpg)

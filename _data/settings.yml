@@ -4,7 +4,8 @@ analytics-id: G-MZ5R1RYZT2
 #Subtitle
 subtitle:
   active: true
-  text: Tuloy-tuloy lang! 
+  text1: Tuloy-tuloy lang...
+  text2: ...hanggang sa abot-tanaw!
 
 #Nav 
 nav:

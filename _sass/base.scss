@@ -1,6 +1,13 @@
 //Colors
-$base: #a2a2a2;
 $light-grey: #ebebeb;
+$beige: #d9c2a0;
+$purple: #51204d;
+$flag-black: #151b29;
+$dark-red: #8e0f18;
+$light-red: #d56f6b;
+$pink: #c07e9a;
+
+$base: $dark-red;
 
 * {
   -webkit-box-sizing: border-box;
@@ -82,7 +89,7 @@ blockquote {
   padding: 1.5em;
   list-style: disc;
   display: inline-block;
-  background-color: $light-grey;
+  background-color: $light-red;
   line-height: 25px;
   li{
     a{

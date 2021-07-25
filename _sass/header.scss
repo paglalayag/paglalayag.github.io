@@ -23,7 +23,7 @@ header{
     
     #site_title{
         text-align: center;
-        color: black;
+        color: $flag-black;
         a{
             text-decoration: none;
         }
@@ -31,9 +31,10 @@ header{
             margin-bottom: 0px;
         }
         h2{
+            color: $purple;
             margin-top: 0px;
             font-style: oblique;
-            font-size: 1.2rem;
+            font-size: 2.4rem;
         }
     }
     #subheader{
@@ -45,11 +46,11 @@ header{
                 display: block;
                 float: left;
                 a:hover{
-                    color: black;
+                    color: $dark-red;
                 }
                 a{
                     text-decoration: none;
-                    color: $base; 
+                    color: $light-red; 
                     margin-right: 3px;
                     font-size: 1.05rem;
                 }

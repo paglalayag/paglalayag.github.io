@@ -1,10 +1,10 @@
 h1, h2, h3, h4, h5, h6{
     margin-bottom: 10px;
     text-decoration: none;
-    color: black;
+    color: $purple;
     a{
         text-decoration: none;
-        color: black;
+        color: flag-black;
     }
 }
 
@@ -29,6 +29,7 @@ h5{
 }
 
 p{
+    color: $flag-black;
     font-size: 1.15rem;
 }
 

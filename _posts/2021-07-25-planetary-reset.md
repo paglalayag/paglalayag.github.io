@@ -2,7 +2,8 @@
 title: Planetary Reset
 layout: post
 categories:
-image: /assets/img/earth-reset.png
+hero_image: /assets/img/earth-reset.png
+image: /assets/img/earth-reset-og.jpg
 description: "resources for the planet"
 ---
 
@@ -82,8 +83,8 @@ Sometimes your journal entries may also inspire and educate others.
 https://www.morganscloud.com/2021/07/18/two-interesting-anchoring-reports/)
 
 
-This Alpinist & Poet was willing to commit his toes to his quest for Everest, but hands were too much to ask.  In the end, the mountain had other ideas for him.
-www.alpinist.com/doc/web21c/wfeature-a74-nejc-zaplotnik-mountain-poet
+
+[This Alpinist & Poet](www.alpinist.com/doc/web21c/wfeature-a74-nejc-zaplotnik-mountain-poet) was willing to commit his toes to his quest for Everest, but hands were too much to ask.  In the end, the mountain had other ideas for him.
 
 
 ---

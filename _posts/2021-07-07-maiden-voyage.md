@@ -2,7 +2,8 @@
 title: Maiden Voyage
 layout: post
 categories:
-image: /assets/img/trail.jpg
+hero_image: /assets/img/trail.jpg
+image: /assets/img/trail-og.jpg
 description: "This Week’s Top 7 Resources for Better Living"
 ---
 

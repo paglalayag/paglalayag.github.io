@@ -36,6 +36,7 @@ Remember that in all of this, success is just one of the many results of being h
 # HAPPINESS
 
 How can we achieve that which we all long for, contentment and happiness? Though these innate desire comes in several forms, unique to each one, there seems to be specific ingredients you can use to savor these two:
+
 [The Powerful Ingredients of a Happy Life](https://medium.com/change-your-mind/the-powerful-ingredients-of-a-happy-life-347dcf0e9c57)
 
 

@@ -36,10 +36,11 @@ Remember that in all of this, success is just one of the many results of being h
 # HAPPINESS
 
 How can we achieve that which we all long for, contentment and happiness? Though these innate desire comes in several forms, unique to each one, there seems to be specific ingredients you can use to savor these two:
-- [The Powerful Ingredients of a Happy Life](https://medium.com/change-your-mind/the-powerful-ingredients-of-a-happy-life-347dcf0e9c57)
+[The Powerful Ingredients of a Happy Life](https://medium.com/change-your-mind/the-powerful-ingredients-of-a-happy-life-347dcf0e9c57)
 
 
 Positivity and fun, reasons why a talented Filipino skateboarder won the hearts of many admirers who saw her compete yet lost in the recently held Olympics. She may not have won any medals, but her take on life is just so amazingly infectious. 
+
 [8 Times Margielyn Didal Won Us Over](https://www.8list.ph/margielyn-didal-funny-moments/)
 
 # WRITING
@@ -61,14 +62,15 @@ Speaking of Born to Run, I do believe Springsteen had something to say about tha
 ## [Born to run - Bruce springsteen](https://www.youtube.com/watch?v=IxuThNgl3YA) 
 ![Springsteen](/assets/img/born-to-run.jpg)
 
-Tuloy tuloy lang
-Mic n Al
 
-Image Credit [Balaji Malliswamy](https://unsplash.com/photos/SPJQ4mtxxKo)
+*Tuloy tuloy lang
+Mic n Al*
+
+*Image Credit [Balaji Malliswamy](https://unsplash.com/photos/SPJQ4mtxxKo)*
 
 =======================================
 
-Please forward this issue of Paglalayag to a friend who might also enjoy the journey.
+*Please forward this issue of Paglalayag to a friend who might also enjoy the journey.*
 
-If this email was shared to you, and you think you might like to hear more, you can
- [subscribe here](https://ck.paglalayag.net/)
+*If this email was shared to you, and you think you might like to hear more, you can
+ [subscribe here](https://ck.paglalayag.net/)*

@@ -1,3 +1,19 @@
+ase I can go looking for some other articles.
+
+https://well.blogs.nytimes.com/2015/10/19/the-fats-you-dont-need-to-fear-and-the-carbs-that-you-do/
+https://greatist.com/play/drinking-every-day-or-on-weekends
+https://www.theatlantic.com/health/archive/2015/10/ag-v-nutrition/409390/
+https://madebysidecar.com/journal/standards-work-to-live
+https://www.forbes.com/sites/kevinkruse/2015/10/12/jack-dorsey-productivity-secret/
+https://www.theatlantic.com/health/archive/2015/10/give-up/410485/
+https://www.bakadesuyo.com/2015/10/out-of-control-kids/
+https://greatergood.berkeley.edu/article/item/eight_keys_to_forgiveness
+
+
+
+
+
+
 *Suggest kicking these ones to a later episode*
 ## Zoom meetings overload
 *We could link to a list of good productivity tools or ways of being more productive with less meetings*

@@ -76,11 +76,8 @@ However, who/what might step in to fill such giant shoes?  Current social media 
 [Psychological effects of Tik Tok](https://exploringyourmind.com/the-psychological-effects-of-tik-tok/)
 
 Given the continuous stream of new content, the emotional & political rollercoasters initiated by Facebook seem likely to continue for years to come.  
-Will we adapt and thrive in the coming generations? Or will our minds waste away like the [sea stars]?
-https://www.frontiersin.org/articles/10.3389/fmicb.2020.610009/full
+Will we adapt and thrive in the coming generations? Or will our minds waste away like the [sea stars?](https://www.frontiersin.org/articles/10.3389/fmicb.2020.610009/full)
 
-Tuloy tuloy lang
-Al
 
 ---
 # Sharing

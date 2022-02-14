@@ -23,7 +23,7 @@ Learning, physical and mental health have captured our attention this time aroun
 Experiences in/around nature for urban residents is known to have direct impacts on mental health, anxiety and depression.  
 For many people living in mega-cities, direct contact with nature and green spaces is an out of reach luxury. Even still, many people across nations and cultures identify nature as something to love, protect and preserve.  
 
-Is this impulse in people inherent or something that "grows on you" like a jumgle vine?  The gold standard for research trying to tackle the question of 'nature vs nurture' is the study of identical twins separated at birth. These rare social actors have identical genetics and completely different life experiences.
+Is this impulse in people inherent or something that "grows on you" like a jungle vine?  The gold standard for research trying to tackle the question of 'nature vs nurture' is the study of identical twins separated at birth. These rare social actors have identical genetics and completely different life experiences.
 
 So what do the life experiences of twins tell us about our attraction to nature?  Like the old stories of fairies and druids, genetics do seem have a role to play on how much you will seek out nature during your life.  But the environment around you often plays a larger role. 
 
@@ -50,7 +50,7 @@ While runimants (cattle, goats, etc) are the largest contributors, animal-based 
 
 So the transition away from meat diets & animal-based agriculture is one of the  important global transitions required to transition to a low-carbon future.
 
-A friend of ours passed away "a proud carnivore" last year at 45.  In my more makulit years, I used to think I was prety clever tricking my vegetarian sister into eating my 'vegetarian chilis'.
+A friend of ours passed away "a proud carnivore" last year at 45.  In my more makulit years, I used to think I was pretty clever tricking my vegetarian sister into eating my 'vegetarian chilis'.
 Given the stakes involved, maybe its almost time to bring back the joke the practice but from the other side of the equation.
 [Jackfruit meat trick recipes](https://www.tasteofhome.com/collection/jackfruit-recipes/)
 

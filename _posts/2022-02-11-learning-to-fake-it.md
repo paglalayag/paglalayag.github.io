@@ -45,7 +45,7 @@ the Mediterranean Diet, the Japanese Diet, the Vegetarian Diet and the New Nordi
 
 
 ## A meat head fake
-While runimants (cattle, goats, etc) are the largest contributors, animal-based agriculture is one of the most significant contributors to global warming.
+While ruminants (cattle, goats, etc) are the largest contributors, animal-based agriculture is one of the most significant contributors to global warming.
 [Fake meat](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000010)
 
 So the transition away from meat diets & animal-based agriculture is one of the  important global transitions required to transition to a low-carbon future.
@@ -54,19 +54,22 @@ A friend of ours passed away "a proud carnivore" last year at 45.  In my more ma
 Given the stakes involved, maybe its almost time to bring back the joke the practice but from the other side of the equation.
 [Jackfruit meat trick recipes](https://www.tasteofhome.com/collection/jackfruit-recipes/)
 
+
 ## Learning to have our fingers on the pulse
-The tradition of Traditional Chinese Medicing recognizes different 'qualities' of your pulse that can provide clues into underlying health conditions. The wisdom behind this technique is ancient and buried in lifetimes of practice.
+The tradition of Traditional Chinese Medicine recognizes different 'qualities' of your pulse that can provide clues into underlying health conditions. The wisdom behind this technique is ancient and buried in lifetimes of practice.
 
 Modern medicine uses the electrocardiogram (ECG) which is rich in information, but the interpretation of that information is still left to human eye.  But that is starting to change.  
-As machine learning tecchniques evolve to begin handling [Shannon entropy](https://towardsdatascience.com/what-is-shannons-entropy-5ad1b5a83ce1), which basically launched the computer age, ECGs may eventually be able to yield a sort of "intuition and understanding" from the information your inner organs transmit via your pulse.
+As machine learning techniques evolve to begin handling [Shannon entropy](https://towardsdatascience.com/what-is-shannons-entropy-5ad1b5a83ce1), which basically launched the computer age, ECGs may eventually be able to yield a sort of "intuition and understanding" from the information your inner organs transmit via your pulse.
 There are still lots of layers to peel back on that onion but it's always exciting to see ancient knowledge & techniques see validation from modern science. Stay Tuned!!
 [Applying ML to ECG measurements in order to investigate gender variations in pulse](https://www.hindawi.com/journals/ecam/2022/7285312/)
+
 
 ## Stories of learning from the sands of time
 Ancient Egypt has produced a wonderful view of how our ancient ancestors made sense of the natural world they could sense and the supernatural they could sense but only speculate about.
 As one of the first societies to cast their knowledge and understanding into written form, their students had to learn writing just as we do today.  This year, the second largest collection of egyptian writing tablets was uncovered.  The time and place uncovered by this snapshot in time? A school next to the temple of King Ptolemy, father of Cleopatra.
 
 [Massive new discovery of ancient egyptian writing](https://uni-tuebingen.de/en/university/news-and-publications/press-releases/press-releases/article/more-than-18000-pot-sherds-document-life-in-ancient-egypt/)
+
 
 ## The Mighty Facebook falters
 As the dominant provider of social connectivity in the Philippines, Facebook's recent stumble may mark the beginning of the end of a communications and social era.

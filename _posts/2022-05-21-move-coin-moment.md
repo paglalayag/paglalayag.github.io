@@ -6,11 +6,11 @@ hero_image: /assets/img/move-coin.png
 image: /assets/img/move-coin-og.png
 ---
 
-# Dissecting a market failure in a Rally creator coin
+## Dissecting a market failure in a Rally creator coin
 
 Please check out my full report - A Move Coin Moment [self-hosted](/assets/pdf/move-coin-moment.pdf) or via [Dropbox](https://www.dropbox.com/s/og3i4k4m8apdnga/A%20MOVE%20coin%20moment.pdf?dl=0)
 
-# Some extra background
+## Some extra background
 
 I was a hesistant, late-entrant into the crypto/Web3 space primarily because of the energy intensity of Proof-of-Work.  
 

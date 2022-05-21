@@ -8,7 +8,7 @@ image: /assets/img/move-coin-og.png
 
 ## Dissecting a market failure in a Rally creator coin
 
-Please check out my full report - A Move Coin Moment [self-hosted](/assets/pdf/move-coin-moment.pdf) or via [Dropbox](https://www.dropbox.com/s/og3i4k4m8apdnga/A%20MOVE%20coin%20moment.pdf?dl=0)
+Please check out my full report - A Move Coin Moment [self-hosted](/assets/pdf/move-coin-moment.pdf) or via [Dropbox](https://www.dropbox.com/s/y04q2nh1v32mqdv/A%20MOVE%20coin%20moment.pdf?dl=0)
 
 ## Some extra background
 

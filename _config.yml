@@ -5,7 +5,7 @@ description: "Tuloy-tuloy lang...hanggang sa abot tanaw!"
 url:  "https://paglalayag.net" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
-  name: "Allan Gray"
+  name: "graial"
   email: "admin@paglalayag.net"
   url: "https://paglalayag.net"
 permalink: /:year/:month/:day/:title:output_ext

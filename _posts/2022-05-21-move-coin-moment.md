@@ -22,7 +22,7 @@ $MOVE is a token hosted on the [Rally](https://rally.io) network.  As enthusiast
 
 While much of their work is not made freely available.  I have found that they do a great job of presenting an open book about their trials & tribulations, their hits, balls and strikes from the leading edge.
 
-If you are an entrepreneur looking to up your game in the online marketing space. You can check them out at [unemployable.com](unemployable.com)
+If you are an entrepreneur looking to up your game in the online marketing space. You can check them out at [unemployable.com](https://unemployable.com)
 and a few other virtual spaces.
 
 

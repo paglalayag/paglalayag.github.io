@@ -9,9 +9,10 @@ https://www.theatlantic.com/health/archive/2015/10/give-up/410485/
 https://www.bakadesuyo.com/2015/10/out-of-control-kids/
 https://greatergood.berkeley.edu/article/item/eight_keys_to_forgiveness
 
+Intelligent alien civilizations never have the time to see the world with the show.
 
-
-
+## Gut biome and age
+https://www.fightaging.org/archives/2022/02/continued-exploration-of-age-related-differences-in-the-human-gut-microbiome/
 
 
 *Suggest kicking these ones to a later episode*
@@ -26,7 +27,6 @@ https://greatergood.berkeley.edu/article/item/eight_keys_to_forgiveness
 *not sure how to approach this one yet*
 
 “Don’t let the noise of others opinions drown out your inner voice.” —  Steve Jobs
-“Happiness is when what you think, say and do are in harmony” -Gandhi
 
 Ego
 https://www.psychologytoday.com/us/blog/the-wise-open-mind/201007/what-are-the-limitations-your-ego-mind

@@ -10,24 +10,61 @@ image: /assets/img/move-coin-og.png
 
 Please check out my full report - A Move Coin Moment [self-hosted](/assets/pdf/move-coin-moment.pdf) or via [Dropbox](https://www.dropbox.com/s/y04q2nh1v32mqdv/A%20MOVE%20coin%20moment.pdf?dl=0)
 
-## Some extra background
+# Some extra background
 
-I was a hesistant, late-entrant into the crypto/Web3 space primarily because of the energy intensity of Proof-of-Work.  
+I was a hesitant, late-entrant into the crypto/Web3 space primarily because of the energy intensity of Proof-of-Work.  
 
-While Ethereum has not yet completed its full transition over to proof of stake, I continue to follow their developments with interest.  As a devops practitioner, I can only imagine the kinds of challenges they face in this migration.
+At the time of writing this report, Ethereum had not yet completed its full transition over to proof of stake.  As a devops guy, I can only imagine the kinds of challenges they faced in that migration.
 
-In the meantime, I've enjoyed getting cozy with a couple online communities in the web3 space.  
+In the meantime, I enjoyed getting cozy with a couple online communities in the web3 space to better understand the tech.
 
-$MOVE is a token hosted on the [Rally](https://rally.io) network.  As enthusiasts and new entrants into the space, we didn't really know what to expect.  The Creators have built much of their business success as early adopters of new technologies & approaches as they emerge in different pockets of the World Wide Web.
+## $MOVE token
+$MOVE is a (now-inactive) token hosted on the [rally.io](https://rally.io/creator/MOVE/) platform of the [Rally network](https://rly.network/).  As enthusiasts and new entrants into the space, we didn't really know what to expect.  The Creators behind $MOVE have built much of their business success as early adopters & guides through the maze of new technologies have emerged in the World Wide Web over the last couple decades.
 
-While much of their work is not made freely available.  I have found that they do a great job of presenting an open book about their trials & tribulations, their hits, balls and strikes from the leading edge.
+If you are an entrepreneur looking to up your game in online communications & marketing. You can check them out at [unemployable.com](https://unemployable.com).
 
-If you are an entrepreneur looking to up your game in the online marketing space. You can check them out at [unemployable.com](https://unemployable.com)
-and a few other virtual spaces.
+## $RLY token
+There are several entities which are associated with the [$RLY token](https://coinmarketcap.com/currencies/rally/) rally.io was billed as a web2 entry point into the world of crypto for the not-so technically inclined participants of the Creator's Economy (think bloggers, YouTubers, podcasters, etc)
+>>>>>>> Stashed changes
 
+In July of 2021, Rally was one of 15 tokens that a rogue CoinBase engineer illegally profitted from by [Front-Running](https://www.investopedia.com/terms/f/frontrunning.asp) their ICOs.  
+
+CoinBase voluntarily reported this to the SEC which resulted in the [SEC issuing a complaint](http://web.archive.org/web/20220803015042/https://www.sec.gov/litigation/complaints/2022/comp-pr2022-127.pdf), describing why the Rally token (alongside 15 others) meets existing definitions of a security. The section specific to Rally starts on page 28.
+
+To be clear, neither CoinBase nor the SEC made any claims that Rally or anybody within that ecosystem was involved in insider trading.  The $MOVE community had mostly pulled out of the ecosystem by that point for reasons you could read about in my report and a couple other shenanigans that I won't mention here. 
+
+## The rub...reporting
+The Crypto community has been very vocal about its desire to be regulated as commodities (rather than securities).  This is mainly due to less reporting requirements.
+
+The desire to be labelled a commodity has been a big factor contributing to projects proclaiming the 'utility' of the token.  This claim will be reasonable in many cases. But...
+
+Many/most projects in the web3 space are building some form of organization and seeking to provide income opportunities for their members. In this case, the token becomes a fundraising mechanism.  This activity sits very firmly in existing securities laws that got established in the wake of the Black Thursday crash and subsequent great depression.
+
+One of the main requirements of a security is ongoing disclosure and reporting.  As an example, the Ontario Securities Commission outlines its [Continuous Disclosure Requirements here](https://www.osc.ca/en/industry/companies/continuous-disclosure)
+
+## Show me the value
+
+My experience is that one of the main goals/desire of people in the web3 space is to allow value to accrue into abstract concepts.
+
+This provides a very fertile space for invention and new possibility.  It also allows us to deceive ourselves into believing that we are acting more altruistically than we actually are.
+
+If you are truly committed to building token value around your project, you would convince me by doing the hard, often tedious work of defining, communicating & reporting how your project & community creates and transmits the value you are creating.
+
+## When the fox finds the backdoor to the henhouse
+
+Consider the case when value accrual occurs around an abstract concept like [Trump Loses](https://etherscan.io/token/0x70878b693a57a733a79560e33cf6a828e685d19a) which you might recognize from the '[balance sheet](http://web.archive.org/web/20221112222902/https://d1e00ek4ebabms.cloudfront.net/production/7ab64a3b-6ce0-47cc-96ac-5e2d2a8c5d6c.png)'  of [history's biggest fraud/corruption scandal](http://web.archive.org/web/20210920150103/https://www.coindesk.com/markets/2020/10/16/crypto-traders-bet-on-us-election-as-ftx-prediction-markets-hit-record-volumes/) (so far).
+
+A concept like `Trump Loses` is sure to attract a diverse range of support and resistance (socially and financially).  
+
+It is rather clear at this point that the primary losers of this situation are the people who were convinced to deposit money into this platform.
+
+Regardless of where you stand on a concept like `Trump Loses` hopefully you can appreciate that you would want to know if someting like that is being counted as an 'asset' within a token that you are holding.
+
+As the leading light of rule of law today, it will be very interesting to watch how the ruling party of the US government will handle these misappropriated funds now that it's clear that their helmsman was among the major beneficiaries. 
+
+The world is watching.
 
 Tuloy tuloy lang.  Hanggang sa abot tanaw 🖖
-
 
 ---
 

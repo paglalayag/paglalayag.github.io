@@ -73,7 +73,7 @@ Also, recent events should make it clear how getting involved with projects that
 
 ### When the fox finds the backdoor to the henhouse
 
-Consider the case when value accrual occurs around an abstract concept like [Trump Loses](https://etherscan.io/token/0x70878b693a57a733a79560e33cf6a828e685d19a) which you might recognize from the '[balance sheet](http://web.archive.org/web/20221112222902/https://d1e00ek4ebabms.cloudfront.net/production/7ab64a3b-6ce0-47cc-96ac-5e2d2a8c5d6c.png)'  of [history's biggest fraud/corruption scandal](http://web.archive.org/web/20210920150103/https://www.coindesk.com/markets/2020/10/16/crypto-traders-bet-on-us-election-as-ftx-prediction-markets-hit-record-volumes/) (so far).
+Consider the case when value accrual occurs around an abstract concept like [Trump Loses](https://etherscan.io/token/0x70878b693a57a733a79560e33cf6a828e685d19a) which you might recognize from the '[balance sheet](http://web.archive.org/web/20221112222902/https://d1e00ek4ebabms.cloudfront.net/production/7ab64a3b-6ce0-47cc-96ac-5e2d2a8c5d6c.png)'  of [the FTX fraud/corruption scandal](http://web.archive.org/web/20210920150103/https://www.coindesk.com/markets/2020/10/16/crypto-traders-bet-on-us-election-as-ftx-prediction-markets-hit-record-volumes/).
 
 A concept like `Trump Loses` is sure to attract a diverse range of support and resistance (socially and financially).  
 

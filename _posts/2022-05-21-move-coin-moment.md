@@ -6,11 +6,16 @@ hero_image: /assets/img/move-coin.png
 image: /assets/img/move-coin-og.png
 ---
 
-## Dissecting a market failure in a Rally creator coin
+
+**NOTE:** *The contents of this article were updated on Nov 28 to incorporate some commentary regarding the SEC Complaint and FTX collapse*
+
+
+
+### Dissecting a market failure in a Rally creator coin
 
 Please check out my full report - A Move Coin Moment [self-hosted](/assets/pdf/move-coin-moment.pdf) or via [Dropbox](https://www.dropbox.com/s/y04q2nh1v32mqdv/A%20MOVE%20coin%20moment.pdf?dl=0)
 
-# Some extra background
+### Some extra background
 
 I was a hesitant, late-entrant into the crypto/Web3 space primarily because of the energy intensity of Proof-of-Work.  
 
@@ -18,14 +23,13 @@ At the time of writing this report, Ethereum had not yet completed its full tran
 
 In the meantime, I enjoyed getting cozy with a couple online communities in the web3 space to better understand the tech.
 
-## $MOVE token
+### $MOVE token
 $MOVE is a (now-inactive) token hosted on the [rally.io](https://rally.io/creator/MOVE/) platform of the [Rally network](https://rly.network/).  As enthusiasts and new entrants into the space, we didn't really know what to expect.  The Creators behind $MOVE have built much of their business success as early adopters & guides through the maze of new technologies have emerged in the World Wide Web over the last couple decades.
 
 If you are an entrepreneur looking to up your game in online communications & marketing. You can check them out at [unemployable.com](https://unemployable.com).
 
-## $RLY token
+### $RLY token
 There are several entities which are associated with the [$RLY token](https://coinmarketcap.com/currencies/rally/) rally.io was billed as a web2 entry point into the world of crypto for the not-so technically inclined participants of the Creator's Economy (think bloggers, YouTubers, podcasters, etc)
->>>>>>> Stashed changes
 
 In July of 2021, Rally was one of 15 tokens that a rogue CoinBase engineer illegally profitted from by [Front-Running](https://www.investopedia.com/terms/f/frontrunning.asp) their ICOs.  
 
@@ -33,7 +37,7 @@ CoinBase voluntarily reported this to the SEC which resulted in the [SEC issuing
 
 To be clear, neither CoinBase nor the SEC made any claims that Rally or anybody within that ecosystem was involved in insider trading.  The $MOVE community had mostly pulled out of the ecosystem by that point for reasons you could read about in my report and a couple other shenanigans that I won't mention here. 
 
-## The rub...reporting
+### The rub...reporting
 The Crypto community has been very vocal about its desire to be regulated as commodities (rather than securities).  This is mainly due to less reporting requirements.
 
 The desire to be labelled a commodity has been a big factor contributing to projects proclaiming the 'utility' of the token.  This claim will be reasonable in many cases. But...
@@ -42,7 +46,7 @@ Many/most projects in the web3 space are building some form of organization and 
 
 One of the main requirements of a security is ongoing disclosure and reporting.  As an example, the Ontario Securities Commission outlines its [Continuous Disclosure Requirements here](https://www.osc.ca/en/industry/companies/continuous-disclosure)
 
-## Show me the value
+### Show me the value
 
 My experience is that one of the main goals/desire of people in the web3 space is to allow value to accrue into abstract concepts.
 
@@ -50,7 +54,7 @@ This provides a very fertile space for invention and new possibility.  It also a
 
 If you are truly committed to building token value around your project, you would convince me by doing the hard, often tedious work of defining, communicating & reporting how your project & community creates and transmits the value you are creating.
 
-## When the fox finds the backdoor to the henhouse
+### When the fox finds the backdoor to the henhouse
 
 Consider the case when value accrual occurs around an abstract concept like [Trump Loses](https://etherscan.io/token/0x70878b693a57a733a79560e33cf6a828e685d19a) which you might recognize from the '[balance sheet](http://web.archive.org/web/20221112222902/https://d1e00ek4ebabms.cloudfront.net/production/7ab64a3b-6ce0-47cc-96ac-5e2d2a8c5d6c.png)'  of [history's biggest fraud/corruption scandal](http://web.archive.org/web/20210920150103/https://www.coindesk.com/markets/2020/10/16/crypto-traders-bet-on-us-election-as-ftx-prediction-markets-hit-record-volumes/) (so far).
 

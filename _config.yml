@@ -25,7 +25,7 @@ paginate_path: "/page:num/"
 
 #SEO
 twitter:
-  username: dalgray
+  username: banal_na_graial
   card: summary
 facebook:
   app_id: # Facebook app ID for Facebook insights

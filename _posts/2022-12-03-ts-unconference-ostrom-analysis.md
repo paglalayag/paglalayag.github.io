@@ -2,7 +2,7 @@
 title: Trusted Seed 2022 Unconference Live Session on Ostrom IAD
 permalink: /ts-unconference-2022-ostrom-analysis/
 layout: post
-hero_image: /assets/img/pinecone-coin.png
+hero_image: /assets/img/pinecone.png
 image: /assets/img/pinecone-og.png
 ---
 

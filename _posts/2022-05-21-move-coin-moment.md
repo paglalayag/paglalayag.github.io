@@ -18,11 +18,11 @@ image: /assets/img/move-coin-og.png
 
 **Full Report - A Move Coin Moment** 
 
-{% include pdf-embed.html id="/assets/pdf/move-coin-moment.pdf" %}
+{% include pdf-embed.html link="/assets/pdf/move-coin-moment.pdf" name="A Move Coin Moment" %}
 
 Also available for download:
- - *[self-hosted](/assets/pdf/move-coin-moment.pdf) *
  - *via [Dropbox](https://www.dropbox.com/s/y04q2nh1v32mqdv/A%20MOVE%20coin%20moment.pdf?dl=0)*
+ 
 ### Some extra background
 
 I was a hesitant, late-entrant into the crypto/Web3 space primarily because of the energy intensity of Proof-of-Work.  

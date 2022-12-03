@@ -1,6 +1,6 @@
-<object data="{{ include.id }}" width="600" height="400" type='application/pdf'/>
-
+<object data="{{ include.link }}" width="600" height="400" type='application/pdf'>
   <p>It appears as though browser doesn't have a PDF plugin.
-  	  You can still <a href="{{ include.id }}">click here to download the PDF file.</a>
-  </p>
-</object>
+
+  	<h3>It is available for Download here:</h3> 
+  	<a href="{{ include.link }}">{{ include.name }}</a>
+  </p></object>

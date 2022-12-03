@@ -10,7 +10,4 @@ image: /assets/img/pinecone-og.png
 
 [Trusted Seed Unconference information](https://wiki.trustedseed.org/unconference/protopian-agenda/graial-financial-structure-and-basis-for-reporting-for-trusted-seed)
 
-### For Download here: 
-*[Trusted Seed 2022 Unconference Live Session on Ostrom IAD](/assets/pdf/TS-Unconference-Slides_Ostrom-IAD.pdf)*
-
-{% include pdf-embed.html id="/assets/pdf/TS-Unconference-Slides_Ostrom-IAD.pdf" %}
+{% include pdf-embed.html link="/assets/pdf/TS-Unconference-Slides_Ostrom-IAD.pdf" name="Trusted Seed 2022 Unconference Live Session on Ostrom IAD" %}

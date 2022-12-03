@@ -6,4 +6,9 @@ hero_image: /assets/img/pinecone.png
 image: /assets/img/pinecone-og.png
 ---
 
-**Unconference Slides** *[Trusted Seed 2022 Unconference Live Session on Ostrom IAD](/assets/pdf/TS-Unconference-Slides_Ostrom-IAD.pdf)*
+## Unconference Slides
+
+### For Download here: 
+*[Trusted Seed 2022 Unconference Live Session on Ostrom IAD](/assets/pdf/TS-Unconference-Slides_Ostrom-IAD.pdf)*
+
+{% pdf "/assets/pdf/TS-Unconference-Slides_Ostrom-IAD.pdf" %}

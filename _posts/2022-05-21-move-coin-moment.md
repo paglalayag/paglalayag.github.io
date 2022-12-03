@@ -17,7 +17,6 @@ image: /assets/img/move-coin-og.png
 ### Dissecting a market failure in a Rally creator coin
 
 **Full Report - A Move Coin Moment** 
-{% pdf "/assets/pdf/move-coin-moment.pdf" %}
 
 Also available for download:
  - *[self-hosted](/assets/pdf/move-coin-moment.pdf) *

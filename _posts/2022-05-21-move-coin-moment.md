@@ -18,6 +18,8 @@ image: /assets/img/move-coin-og.png
 
 **Full Report - A Move Coin Moment** 
 
+{% include pdf-embed.html id="/assets/pdf/move-coin-moment.pdf" %}
+
 Also available for download:
  - *[self-hosted](/assets/pdf/move-coin-moment.pdf) *
  - *via [Dropbox](https://www.dropbox.com/s/y04q2nh1v32mqdv/A%20MOVE%20coin%20moment.pdf?dl=0)*

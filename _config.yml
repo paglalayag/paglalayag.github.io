@@ -16,8 +16,7 @@ plugins: [
   jekyll-feed, 
   jekyll-seo-tag, 
   jekyll-sitemap,
-  jekyll-redirect-from,
-  jekyll-pdf-embed
+  jekyll-redirect-from
 ]
 
 #Pagination

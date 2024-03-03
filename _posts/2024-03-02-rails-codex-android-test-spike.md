@@ -374,4 +374,5 @@ and BOOM! we've hit it!
 Hopefully that helps some folk find their way around testing elements within their Hybrid Turbo Apps.  These are much slower to run and are a more complex CI/CD integration than regular Rails system tests.  So use them sparingly.  But they should help with catching regressions and expected behaviour when you start moving native elements around with Strada.
 
 Cheers!
+
 Al

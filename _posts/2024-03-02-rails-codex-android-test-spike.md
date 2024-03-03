@@ -60,7 +60,7 @@ I'd like to believe that what we are building at [sunE](www.sunE.ph) is going to
 
 # Some backstory on our app
 
-To start, I'll say that we didn't start [sunE](https://play.google.com/store/apps/details?id=com.sune.booking) in order to write software.  But we didn't start it in order to do any of the many other technical or other things we need to do on a daily basis. We came to build a climate solution for the 21st centrury that would beat the staus quo that evolved over the 20th century in most meaningful metrics.
+To start, I'll say that we didn't start [sunE](https://play.google.com/store/apps/details?id=com.sune.booking) in order to write software.  But we didn't start it in order to do any of the many other technical or other things we need to do on a daily basis either. We came to build a climate solution for the 21st centrury that would beat the staus quo that evolved over the 20th century in most meaningful metrics.
 
 The need for a performant app stemmed from how important it was to have our operations run smoothly and how the general purpose tools we tried tended to miss the mark regarding the visibiity we needed.
 

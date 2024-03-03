@@ -134,15 +134,7 @@ Click and you will notice some activity on the screen of the connected device, f
 
 ### First test
 
-Now we can proceed to writing a test of our own. 
-- import [Barista](https://github.com/AdevintaSpain/Barista#baristas-assertions-api)
-{% highlight gradle %}
-androidTestImplementation('com.adevinta.android:barista:4.2.0') {
-        exclude group: 'org.jetbrains.kotlin' // Only if you already use Kotlin in your project
-    }
-{% endhighlight %}
-
-- Target app title
+Now we can proceed to writing a test of our own. Let's get the main screen to appear and check for the test in the title bar with this test:
 
 {% highlight kotlin %}
   @Test
@@ -153,22 +145,46 @@ androidTestImplementation('com.adevinta.android:barista:4.2.0') {
   }
 {% endhighlight %}
 
-https://developer.android.com/training/testing/espresso/idling-resource
+`assertDisplayed` comes from the [Barista](https://github.com/AdevintaSpain/Barista#baristas-assertions-api) library which can be imported with 
 
-Adding this to `build.gradle`
-`androidTestImplementation("androidx.test.ext:junit-ktx:1.1.5")`
-
- - Gives you access to a rule which allows you to launch `MainActivity`:
-
-{% highlight kotlin %}
-  @get:Rule
-  val activityScenarioRule = activityScenarioRule<MainActivity>()
+{% highlight gradle %}
+androidTestImplementation("com.adevinta.android:barista:4.2.0")
 {% endhighlight %}
 
-## Targeting elements within the webview
-now that we can pull up the activity, we can start to go after the elements within the WebView:
+This lands us on our first test failure:
 
-Let's review the structure of `activity_main.xml`
+![1st passing test](/assets/img/rails-codex/2nd-test-failure-1.png)
+
+Barista couldn't find the test we were seeking.  If you watched the test device while the test ran, you might notice that the home screen didn't actually load.
+
+We need to launch the `MainActivity` first.  The instructions for handling activities within Espresso can be found [here](https://developer.android.com/guide/components/activities/testing).
+
+For our case, we will define a rule which launches `MainActivity`:
+
+{% highlight kotlin %}
+@RunWith(AndroidJUnit4::class)
+class ExampleInstrumentedTest {
+  @get:Rule
+  val activityScenarioRule = activityScenarioRule<MainActivity>()
+    .
+    .
+    .
+  }
+{% endhighlight %}
+
+Which requires adding this library to `build.gradle`
+{% highlight gradle %}
+androidTestImplementation("androidx.test.ext:junit-ktx:1.1.5")
+{% endhighlight %}
+
+This should now pass.  If it fails to find the title, you can try increasing the delay in `Thread.sleep(2000)`.
+
+Obviously using delays is an inefficient way to test. The proper way to handle loading events is with [Idling Resources](https://developer.android.com/training/testing/espresso/idling-resource).  There are a couple different ways to implement these and I'm not yet sure which way I want to go for my app, so for the moment, I'm putting up with the delays as I get more comfortable with the tooling.
+
+### Targeting elements within the webview
+Now that we can pull up the activity, we can proceed to the third test which will go after the elements within the WebView:
+
+Let's review the structure of `activity_main.xml` *(with irrelevant attributes removed)*
 {% highlight xml %}
 <androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -196,21 +212,20 @@ Let's review the structure of `activity_main.xml`
 </androidx.constraintlayout.widget.ConstraintLayout>
 {% endhighlight %}
 
-The elements we need to target are inside of the FragmentContainerViews, which are inside the ViewFlipper, let's get the ViewFlipper first
+The elements we need to target are inside of the FragmentContainerViews, which are inside the ViewFlipper, let's get the ViewFlipper first by creating this new test (which should pass):
 
 {% highlight kotlin %}
  @Test
   fun displayMainTurboView() {
     onView(withId(R.id.app_bar))
     Thread.sleep(2000)
-    onView(withId(R.id.tabSwitcher)
+    onView(withId(R.id.tabSwitcher))
+  }
 {% endhighlight %}
 
-For whatever reason, apparently the Android community still doesn't have a streamlined library for matching ambiguous views.  Often stack overflow questions will receive a bunch of suggested CustomMatchers to try.
+For whatever reason, apparently the Android community still doesn't have a streamlined library for matching ambiguous views.  Stack overflow questions asking about this challenge will often receive a bunch of suggested [CustomMatchers](https://github.com/android/testing-samples/tree/main/ui/espresso/CustomMatcherSample) to try.
 
-So got me to isolate the first view container, I was able to use this function (apparently originally provided by the Android team).
-
-As the name suggests, `nthChildOf` allows you to choose from a set of matches by its position within the sequence
+To isolate the first view container, I was able to use this function. Apparently it was originally provided by the Android team, but I don't know the location of the original.
 
 {% highlight kotlin %}
     fun nthChildOf(parentMatcher: Matcher<View>, childPosition: Int): Matcher<View> {
@@ -232,9 +247,13 @@ As the name suggests, `nthChildOf` allows you to choose from a set of matches by
     }
 {% endhighlight %}
 
-Now we are able to target the `Home` container by adjusting the test as follows:
+You shouldn't need to add any new libraries. But for the imports, where there is an option, choose the option provided by `hamcrest`.
 
-{% highlight bash %}
+As the name suggests, `nthChildOf` allows you to choose from a set of matches by its position within the sequence
+
+We are able to target the `Home` container by adjusting the test as follows (this should also pass):
+
+{% highlight kotlin %}
     @Test
     fun displayMainTurboView() {
         onView(withId(R.id.app_bar))
@@ -248,22 +267,15 @@ Now we are able to target the `Home` container by adjusting the test as follows:
     }
 {% endhighlight %}
 
-no new libraries were required, interestingly, Hamcrest is already available even though I don't see it in `build.gradle`
+### Adding Espresso Web to get inside the TurboWebView
+To get at the contents of the TurboWebView, we can use [espresso-web](https://developer.android.com/training/testing/espresso/web)
+here's the package to add to `build.gradle`
 
 {% highlight gradle %}
-import androidx.test.espresso.assertion.ViewAssertions.matches
-import org.hamcrest.Description
-import org.hamcrest.Matcher
+androidTestImplementation 'androidx.test.espresso:espresso-web:3.5.1'
 {% endhighlight %}
 
-(custom matchers)
-
-To get at the contents of the TurboWebView, we can use [espresso-web]()
-here's the package to add to `build.gradle`
-`    androidTestImplementation 'androidx.test.espresso:espresso-web:3.5.1'
-`
-
-this is what the final test will look like when with the webView matcher
+This is what the final test will look like when with the webView matcher added:
 
 {% highlight kotlin %}
   @Test
@@ -282,12 +294,18 @@ this is what the final test will look like when with the webView matcher
   }
 {% endhighlight %}
 
+*Note: `Locator.ID` refers to an `id` element in the html element which wasn't included in the original book.  In TDD I'd maybe feel like I was getting ahead of myself. But the test won't compile without a valid Locator*
+
+Using the following new imports:
+
 {% highlight kotlin %}
 import androidx.test.espresso.web.sugar.Web.onWebView
 import androidx.test.espresso.matcher.ViewMatchers.withContentDescription
 import androidx.test.espresso.web.webdriver.DriverAtoms.findElement
 import androidx.test.espresso.web.webdriver.Locator
 {% endhighlight %}
+
+The test fails with the following:
 
 {% highlight bash %}
 
@@ -298,6 +316,8 @@ androidx.test.espresso.AmbiguousViewMatcherException: 'an instance of android.we
 - [4] TurboWebView{id=-1, visibility=VISIBLE, width=0, height=0 ... rest is the same as TurboWebView#1}
 - [5] TurboWebView{id=-1, visibility=VISIBLE, width=0, height=0 ... rest is the same as TurboWebView#1}
 {% endhighlight %}
+
+Which tells us that there is one TurboWebView for each tab. While Ayush didn't target elements with id in his system tests, that is what I usually find the easiest.  In Android, the `contentDescription` seems to provide a similar testing convenience.  We can target by `contentDescription` like this:
 
 {% highlight kotlin %}
   @Test
@@ -310,15 +330,15 @@ androidx.test.espresso.AmbiguousViewMatcherException: 'an instance of android.we
   }
 {% endhighlight %}
 
+Which now fails with no matches:
+
 {% highlight bash %}
 androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: view.getContentDescription() is "web_view_home"
 {% endhighlight %}
 
-Now we can shift over to the implmentation in `SessionNavHostFragment.kt`
+If you review the view hierarchy in the `AmbiguousViewMatcherError` above, you'll notice that we haven't actually added a `contentDescription` yet.  This is the only production code change required on the Android side.  We make it in `SessionNavHostFragment.kt`.
 
-since we are already setting the tag in `onCreate` with `sessionName = "tab_$tag"`
-
-we can use the tag to set our `contentDescription` with a new override on `onCreateWebView`
+since we are already setting the tag in `onCreate` with `sessionName = "tab_$tag"`, we can use that tag to set our `contentDescription` with a new override on `onCreateWebView`
 
 {% highlight kotlin %}
   override fun onCreateWebView(context: Context): TurboWebView {
@@ -328,15 +348,16 @@ we can use the tag to set our `contentDescription` with a new override on `onCre
   }
 {% endhighlight %}
 
+Now the test fails with:
 
-This returns:
 {% highlight bash %}
 java.lang.RuntimeException: java.lang.RuntimeException: Atom evaluation returned null!
 {% endhighlight %}
 
-Meaning that the specific element couldn't be found.
+The [atoms](https://github.com/SeleniumHQ/selenium/wiki/Automation-Atoms) are the HTML elements within the `TurboWebView`.  So we are now inside our target, but as I mentioned above, the book code didn't supply ids on any of the HTML element.
 
-
+Let's now jump into the `piazza-web` code and add an id to the `submit` button of the search bar:
+*piazza-web/app/views/feed/_search.html.erb*
 {% highlight erb %}
   <layout-group class="buttons is-right">
     <%= f.submit t(".search"),
@@ -346,4 +367,11 @@ Meaning that the specific element couldn't be found.
   </layout-group>
 {% endhighlight %}
 
-and we're done!
+and BOOM! we've hit it!
+
+![3rd passing test](/assets/img/rails-codex/3rd-passing-test.png)
+
+Hopefully that helps some folk find their way around testing elements within their Hybrid Turbo Apps.  These are much slower to run and are a more complex CI/CD integration than regular Rails system tests.  So use them sparingly.  But they should help with catching regressions and expected behaviour when you start moving native elements around with Strada.
+
+Cheers!
+Al

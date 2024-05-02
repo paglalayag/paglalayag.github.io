@@ -21,7 +21,7 @@ title: Home
 
 {% include signup.html %} 
 
-# In Paglalayag, the winds will change constantly, how will you navigate them?
+# In Paglalayag, the winds are always changing. How will you navigate to your destination?
 
 I'm Allan and I started Paglalayag with my buddy Mic. 
 

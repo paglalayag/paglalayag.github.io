@@ -30,7 +30,7 @@ We're each on our own journeys towards financial independence. Paglalayag is sti
 Whether you hope to one day:
 
 {% include highlight.html text=
-"- Build a comforatble lifestyle for you and your family"
+"- Build a comfortable lifestyle for you and your family"
 %}
 {% include highlight.html text=
 "- Improve the lives of those around you"

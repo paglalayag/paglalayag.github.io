@@ -9,11 +9,11 @@ title: Home
 
     Are you tired of sifting through scams, dropshipping and encoder jobs?
 
-### You’ve spent years abroad.  You've worked long hours in order to send your hard earned dollars home.
+### - You’ve spent years abroad.  You've worked long hours in order to send your hard earned dollars home.
 
-### You know that one day, you and your family will need to live off of what you've earned while you were away.
+### - You know that one day, you and your family will need to live off of what you've earned while you were away.
 
-### You know that many have leveraged their time overseas into generational wealth for your kapamilya
+### - You know that many have leveraged their time overseas into generational wealth for your kapamilya
 
 {% include signup.html %} 
 

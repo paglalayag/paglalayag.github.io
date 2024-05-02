@@ -5,9 +5,13 @@ title: Home
 
 # Do you long to return to the Philippines one-day?
 
-    Is your overseas contract going to eventually expire?
+{% include highlight.html text=
+"- Is your overseas contract going to eventually expire?"
+%}
+{% include highlight.html text=
+"- Are you tired of sifting through the same old scams, dropshipping and encoder jobs?"
+%}
 
-    Are you tired of sifting through scams, dropshipping and encoder jobs?
 
 ### - You’ve spent years abroad.  You've worked long hours in order to send your hard earned dollars home.
 
@@ -25,9 +29,15 @@ We're each on our own journeys towards financial independence. Paglalayag is sti
 
 Whether you hope to one day:
 
-    - Build a comforatble lifestyle for you and your family
-    - Improve the lives of those around you
-    - Leave a lasting legacy
+{% include highlight.html text=
+"- Build a comforatble lifestyle for you and your family"
+%}
+{% include highlight.html text=
+"- Improve the lives of those around you"
+%}
+{% include highlight.html text=
+"- Leave a lasting legacy"
+%}
 
 Rest assured, there will be many challenges and opportunities ahead of you, and you will be faced with many who didn't have the opportunity and exposure to the rest of the world. 
 
@@ -51,9 +61,18 @@ We'll do this from a few angles:
  There are a number of innovations involved in the business model we are introducing via sunEtrike.  I've been around long enough to realize that this makes Filipinos nervous.
  At the same time, the world around us is changing:
  
-     - Smartphone usage increases year over year.
-     - We are more connected than ever before.
-     - More people are moving into cities & other urban areas.
+
+{% include highlight.html text=
+"- Smartphone usage increases year over year."
+%}
+
+{% include highlight.html text=
+"- We are more connected than ever before."
+%}
+
+{% include highlight.html text=
+"- More people are moving into cities & other urban areas."
+%}
 
  So while sunE has a lot to offer the Filipino public & entrepreneurs, it has a larger barrier to entry than many other business opportunities out there and there are a lot of skills that are required fo business success.
 

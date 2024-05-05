@@ -62,3 +62,6 @@ kramdown:
 sass:
   style: compressed
   sourcemap: never
+
+include:
+  - _pages

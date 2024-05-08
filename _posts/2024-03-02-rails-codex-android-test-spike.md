@@ -4,6 +4,7 @@ permalink: /rails-codex-android-test-spike/
 layout: post
 hero_image: /assets/img/rails-codex/piton.jpg
 image: /assets/img/rails-codex/piton-og.jpg
+categories: coding
 ---
 
 <br>

@@ -3,13 +3,13 @@ layout: page
 title: Home
 ---
 
-# Do you long to return to the Philippines one-day?
+# Do you look forward to returning to the Philippines one-day?
 
 {% include highlight.html text=
 "- Is your overseas contract going to eventually expire?"
 %}
 {% include highlight.html text=
-"- Are you tired of sifting through the same old scams, dropshipping and encoder jobs?"
+"- Are you tired of sifting through the same old dropshipping and encoder jobs?"
 %}
 
 
@@ -17,7 +17,7 @@ title: Home
 
 ### - You know that one day, you and your family will need to live off of what you've earned while you were away.
 
-### - You know that many have leveraged their time overseas into generational wealth for your kapamilya
+### - You know that many have leveraged their time overseas into generational wealth for their kapamilya
 
 {% include signup.html %} 
 
@@ -79,14 +79,11 @@ We'll do this from a few angles:
  We are also active with:
      Solar Impulse
      IEEE Smart Cities
-     Others?
 
 # 3. Stories from abroad and Filipiniana
  Everyone loves a good story and like Bilbo moving away from the shire, going abroad is a big scary adventure. In many ways, it is a wonderful growing experience.
 
- It can also be lonely and leave you disconnected from where you come from.  You may no longer see the world the way your friends and family back home do.
- 
- Paglalayag seeks to provide a space for people to share some of these stories. To grow together, even if we are all very disconnected.
+ It can also be lonely, Paglalayag seeks to provide a space for kabayani to share some of these stories and keep a connection.
 
 ## If this sounds like the journey you are on, then get subscribed to see our new content as it comes out.
 

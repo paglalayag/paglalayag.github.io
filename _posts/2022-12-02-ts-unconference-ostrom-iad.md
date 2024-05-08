@@ -4,6 +4,7 @@ permalink: /ts-unconference-2022-ostrom-iad/
 layout: post
 hero_image: /assets/img/pinecone.png
 image: /assets/img/pinecone-og.png
+categories: presentations
 ---
 
 ## Unconference Slides

@@ -4,6 +4,7 @@ permalink: /a-move-moment/
 layout: post
 hero_image: /assets/img/move-coin.png
 image: /assets/img/move-coin-og.png
+categories: presentations
 ---
 
 

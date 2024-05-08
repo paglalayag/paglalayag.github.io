@@ -1,5 +1,7 @@
 pages:
   - {name: 'About', url: 'about.html'}
+  - {name: 'Posters & Presentations', url: 'presentations/'}
   - {name: 'Tula (poems)', url: 'tula/'}
+  - {name: 'Coding', url: 'coding/'}
   - {name: 'Latest Episode', url: 'latest'}
   - {name: 'Subscribe', url: 'https://ck.paglalayag.net/'}

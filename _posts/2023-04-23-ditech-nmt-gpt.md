@@ -4,6 +4,7 @@ permalink: /ditech-2023-gpt-nmt/
 layout: post
 hero_image: /assets/img/ditech2023.png
 image: /assets/img/ditech2023-og.png
+categories: [presentations,coding]
 ---
 
 ## DITECH 2023

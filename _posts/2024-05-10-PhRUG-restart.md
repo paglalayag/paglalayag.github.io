@@ -1,7 +1,7 @@
 ---
 title: Philippine Ruby Users Group Restart
 layout: post
-hero_image: /assets/img/ditech2023.png
+hero_image: /assets/img/PhRUG/PhRUG-launchkit-event.jpg
 image: /assets/imgPhRUG/PhRUG-logo.png
 categories: [presentations,coding]
 ---

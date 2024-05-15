@@ -66,6 +66,16 @@ sass:
 include:
   - _pages
 
-feed:
-  categories:
-    - podcasts
+podcast_url: https://www.paglalayag.net/podcasts
+podcast_album_art: /assets/img/paglalayag-3x3.png
+podcast_title: Paglalayag
+podcast_owner: Al
+podcast_email: al@paglalayag.net
+podcast_category: Entrepreneurship
+podcast_subcategory_one: Cleantech
+podcast_subcategory_two: Filipinana
+podcast_explicit: "no"
+podcast_author: Al
+podcast_description: A collection of interviews and stories from riding the Cleantech waves in SE Asia.
+podcast_summary: Al introduces you to other entrepreneurs and their stories, trials and tribulations building Cleantech and other businesses.
+podcast_subtitle: Hanggang sa and Abot-Tanaw

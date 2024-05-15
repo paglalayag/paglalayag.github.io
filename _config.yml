@@ -65,3 +65,7 @@ sass:
 
 include:
   - _pages
+
+feed:
+  categories:
+    - podcasts

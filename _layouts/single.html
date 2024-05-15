@@ -4,17 +4,18 @@
     {% include head.html %}
   </head>
 
-<body>
+  <body>
 
-  <div class="container">
-    {% include miniheader.html %}
+    <div class="container">
+      {% include miniheader.html %}
 
-    {{content}}
+      {{content}}
+    </div>
 
-{%- include footer.html -%}
+    {%- include footer.html -%}
 
-{% if site.data.settings.mathjax.active %}
-  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-{% endif %}
-</body>
+    {% if site.data.settings.mathjax.active %}
+      <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    {% endif %}
+  </body>
 </html>

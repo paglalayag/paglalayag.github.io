@@ -1,0 +1,5 @@
+<ul>
+	{% for host in site.data.podcast_hosts %}
+			<a href="{{host.url}}"> <img src="{{host.icon}}"> {{host.title}} </a>
+	{% endfor %}
+</ul>

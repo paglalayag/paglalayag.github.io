@@ -8,7 +8,7 @@ author:
   name: "graial"
   email: "admin@paglalayag.net"
   url: "https://paglalayag.net"
-permalink: /:year/:month/:day/:title:output_ext
+permalink: pretty
 
 #Plugins
 plugins: [

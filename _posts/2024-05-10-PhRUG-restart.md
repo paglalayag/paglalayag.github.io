@@ -3,7 +3,9 @@ title: Philippine Ruby Users Group Restart
 layout: post
 hero_image: /assets/img/PhRUG/phrug-may-meetup.jpg
 image: /assets/imgPhRUG/PhRUG-logo.png
-categories: [presentations,coding]
+categories: [coding]
+redirect_from:
+  - /2024/05/10/PhRUG-restart.html
 ---
 
 ## DITECH 2023

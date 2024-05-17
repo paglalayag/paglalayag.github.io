@@ -1,5 +1,15 @@
+<h1>The display Property</h1>
+
 <ul>
 	{% for host in site.data.podcast_hosts %}
 			<a href="{{host.url}}"> <img src="{{host.icon}}"> {{host.title}} </a>
 	{% endfor %}
 </ul>
+
+<div align="center">
+	<p>
+		<a href="https://paglalayag.net/podcast.xml">
+			<span><img src="/assets/img/icons/rss.png" width=25></span>Not using Spotify? Add the RSS feed to your client! <span><img src="/assets/img/icons/rss.png" width=25></span>
+		</a>
+	</p>
+</div>	

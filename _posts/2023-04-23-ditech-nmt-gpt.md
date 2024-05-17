@@ -28,7 +28,7 @@ napatigil sa kanilang nalilibang araw-alinlangan, pagkatayo kung sa ibaba ang mg
 At dahil wala sa iyong paglalakbay tungkol sa mga damit, at bakod na natagal na ni Kapitan Tiago ng bagay na kailangang pagmahal.
 ```
 
-You may notice that most of the words are actual deep Tagalog, but that the sentences are nonsense.  Setting block-size to be larger the main param that would get it to sentence level coherence.  It would also take substantially more training time.  A single book may also be too short to provide enough training data.
+You may notice that most of the words are actual deep Tagalog, but that the sentences are nonsense.  Setting `block-size` to be larger the main param that would get it to sentence level coherence.  It would also take substantially more training time.  A single book may also be too short to provide enough training data.
 
 *Note: this is a long way from an LLM. All this GPT does is produce deep-Tagalog looking sentences.*
 

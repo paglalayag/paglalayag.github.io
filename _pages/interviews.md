@@ -1,5 +1,5 @@
 ---
-layout: interviews
+layout: podcast
 title: Podcast
 
 permalink: /podcast

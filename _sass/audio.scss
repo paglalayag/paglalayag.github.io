@@ -1,9 +1,19 @@
 .red {
-  height: 100vh;
+  height: 120vh;
   display: flex;
   justify-content: center;
   align-items: center;
   background: linear-gradient(0deg, $light-red 27%, $dark-red 75%);
+
+  a:hover {
+    color: $purple;
+  }
+  a {
+    text-decoration: none;
+    color: $base;
+    margin-right: 3px;
+    font-size: 1.3rem;
+  }
 }
 
 #card {
@@ -59,7 +69,7 @@
 }
 
 .podsub-button {
-  background-color: $light-red;
+  background-color: $dark-red;
   border-radius: 10px;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
   color: #9013fe;
@@ -120,6 +130,10 @@
   font-size: 1.5rem;
   justify-content: center;
   will-change: opacity, transform;
+}
+
+.podsub-text a:hover{
+    color: #fff;
 }
 
 .podcast-hosts li {

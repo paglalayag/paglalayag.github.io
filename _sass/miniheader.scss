@@ -21,13 +21,27 @@
             right: 0;
 
             a:hover{
-                color: black;
+                color: $purple;
             }
+
             a{
                 text-decoration: none;
                 color: $base; 
                 margin-right: 3px;
-                font-size: 1.05rem;
+                font-size: 1.3rem;
             }
         }
+}
+
+.red #miniheader {
+    a:hover {
+        color: $light-red;
+    }
+
+    a {
+        text-decoration: none;
+        color: #fff;
+        margin-right: 3px;
+        font-size: 1.3rem;
+    }
 }

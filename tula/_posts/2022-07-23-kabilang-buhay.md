@@ -11,6 +11,3 @@ categories: tula
 |*naglihim halik* | | ᜈᜄ᜔ᜎᜒᜑᜒᜋ᜔  ᜑᜎᜒᜃ᜔ |
 | *nakahihindik* | | ᜈᜃᜑᜒᜑᜒᜈ᜔ᜇᜒᜃ᜔ |
 | *hanggang panahong huli-hulihan* | | ᜑᜅ᜔ᜄᜅ᜔  ᜉᜈᜑᜓᜈ᜔  ᜑᜓᜎᜒ-ᜑᜓᜎᜒᜑᜈ᜔ |
-
-
-{% include baybayin-tip.html %}

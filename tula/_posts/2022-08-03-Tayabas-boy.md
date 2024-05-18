@@ -11,6 +11,3 @@ categories: tula
 |*bakit pinakamapagkumbaba* | | ᜊᜃᜒᜆ᜔  ᜉᜒᜈᜃᜋᜉᜄ᜔ᜃᜓᜋ᜔ᜊᜊp |
 | *walang-bahalang buntonghininga* | | ᜏᜎᜅ᜔-ᜊᜑᜎᜅ᜔  ᜊᜓᜈ᜔ᜆᜓᜅ᜔ᜑᜒᜈᜒᜅ |
 | *nabinat bang budhi bukas?* | | ᜈᜊᜒᜈᜆ᜔  ᜊᜅ᜔  ᜊᜓᜇ᜔ᜑᜒ  ᜊᜓᜃᜐ᜔? |
-
-
-{% include baybayin-tip.html %}

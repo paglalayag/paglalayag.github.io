@@ -27,6 +27,3 @@ categories: tula
 ||||
 |*lumalapit dapit-umaga*| |ᜎᜓᜋᜎᜉᜒᜆ᜔  ᜇᜉᜒᜆ᜔-ᜁᜋᜄ
 |*pumupol lampara*| |ᜉᜓᜋᜓᜉᜓᜎ᜔  ᜎᜋ᜔ᜉᜇ|
-
-
-{% include baybayin-tip.html %}

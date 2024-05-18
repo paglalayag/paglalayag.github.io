@@ -12,5 +12,3 @@ categories: tula
 | *walang-hanggang bilang* | | ᜏᜎᜅ᜔  ᜑᜅ᜔ᜄᜅ᜔  ᜊᜒᜎᜅ᜔ |
 | *Mabigat ang hulog ng pagluhog* | | ᜋᜊᜒᜄᜆ᜔  ᜉᜅ᜔  ᜑᜓᜎᜓᜄ᜔  ᜅ᜔  ᜉᜄ᜔ᜎᜓᜑᜓᜄ᜔
  |
-
-{% include baybayin-tip.html %}

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: About
 ---
 
@@ -13,4 +13,4 @@ So I guess we finally found an excuse to take a trip.
 
 [Allan Gray](https://www.sunetrike.com/team/al-gray) - sunEtrike 
 
-![Mic n Al](assets/img/al-n-mic.jpg)
+![Mic n Al](/assets/img/al-n-mic.jpg)

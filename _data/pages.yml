@@ -4,5 +4,5 @@ pages:
   - {name: 'Tula', url: 'tula/'}
   - {name: 'Coding', url: 'coding/'}
   - {name: 'Podcast', url: 'podcast/'}
-  - {name: 'Latest Episode', url: 'latest'}
+  - {name: 'Latest', url: 'latest'}
   - {name: 'Subscribe', url: 'https://ck.paglalayag.net/'}

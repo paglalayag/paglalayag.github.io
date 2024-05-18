@@ -57,3 +57,73 @@
     }
   }
 }
+
+.podsub-button {
+  background-color: $light-red;
+  border-radius: 10px;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  color: #9013fe;
+  display: inline-block;
+  font-size: 0.475rem;
+  line-height: 1;
+  padding: 1em 1em;
+  text-align: center;
+  text-shadow: none;
+  align: center;
+  transition-property: box-shadow, transform;
+  user-select: none;
+  vertical-align: top;
+  white-space: nowrap;
+  will-change: box-shadow, transform;
+  margin-top: 1rem;
+
+
+  a{
+    text-decoration: none;
+    color: #FFF; 
+    font-size: 1.05rem;
+  }
+  p, ul, ol{
+    li {
+     font-size: 0.95rem;
+     }
+  }
+}
+
+.podsub-button:hover {
+  background-color: $dark-red;
+  box-shadow: 0 1.5rem 3rem rgba(0,0,0,0.2);
+  transform: scale(1.02) translate(-4px);
+}
+
+.podsub-button:active {
+  box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.3);
+  transform: scale(0.98) translateY(-2px);
+}
+
+.podsub-text {
+  display: flex;
+  margin-top: 0.2rem;
+  margin-right: 1.85rem;
+  margin-bottom: 0.2rem;
+}
+
+.podsub-text li {
+  height: 2rem;
+  text-align: center;
+  list-style-type: none;
+}
+
+.podsub-text a {
+  align-items: left;
+  display: flex;
+  font-size: 1.5rem;
+  justify-content: center;
+  will-change: opacity, transform;
+}
+
+.podcast-hosts li {
+  height: 2rem;
+  text-align: center;
+  list-style-type: none;
+}

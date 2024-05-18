@@ -1,14 +1,27 @@
+<div class="podcast-hosts">
+	<ul>
+		{% for host in site.data.podcast_hosts %}
+			<li>
+				<a href="{{host.url}}"> <img src="{{host.icon}}"> {{host.title}} </a>
+			</li>
+		{% endfor %}
 
-<ul>
-	{% for host in site.data.podcast_hosts %}
-			<a href="{{host.url}}"> <img src="{{host.icon}}"> {{host.title}} </a>
-	{% endfor %}
-</ul>
-
-<div align="center">
-	<p>
-		<a href="https://paglalayag.net/podcast.xml">
-			<span><img src="/assets/img/icons/rss.png" width=25></span>Not using Spotify? Add the RSS feed to your client! <span><img src="/assets/img/icons/rss.png" width=25></span>
-		</a>
-	</p>
-</div>	
+		<li>
+			<div class="podsub-button">
+				<ul class="podsub-text">
+					<a href="https://paglalayag.net/podcast.xml">
+						<li>
+							<img src="/assets/img/icons/rss.png" width=35>
+						</li>
+						<li>
+							Not using Spotify? <br>paste this in your client! 
+						</li>
+						<li>
+							<img src="/assets/img/icons/rss.png" width=35>
+						</li>
+					</a>
+				</ul>
+			</div>
+		</li>
+	</ul>
+</div>

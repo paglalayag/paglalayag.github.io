@@ -1,19 +1,10 @@
-<!doctype html>
-<html>
-	<head>
-		{% include head.html %}
-	</head>
-	<body>
-		<div class="post-container">
-		{% include miniheader.html %}
-		<main>
-			<layout-columns class="columns is-centered">
-				<layout-column class="column is-7">
-					{{ content }}
-				</layout-column>
-			</layout-columns>
-		</main>
-		{%- include footer.html -%}
-	</body>
-</html>
-
+---
+layout: page
+---
+<main>
+	<layout-columns class="columns is-centered">
+		<layout-column class="column is-7">
+			{{ content }}
+		</layout-column>
+	</layout-columns>
+</main>

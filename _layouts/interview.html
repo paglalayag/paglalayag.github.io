@@ -1,21 +1,9 @@
 ---
-layout: single
+layout: post
 ---
 
-<div class="post-container">
-  <article id = "post">
-    {% if page.hero_image %}
-      <img src="{{ page.hero_image }}" id = "post-image">
-    {% endif %}
-    <h2 id = "post-title">{{ page.title }}</h2>
+{{ content }}
 
-    {% if site.data.settings.date-under-post.active %}
-      <div class = "post-info">
-        <span>
-          <i class="far fa-calendar" aria-hidden="true"></i> <span>{{ page.date | date_to_string }}</span> 
-      </div>
-    {% endif %}
-    
-    {{ content }}
-  </article>
-</div>
+{% include mp3_embed.html %}
+
+{% include podsub.html %}

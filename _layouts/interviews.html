@@ -2,6 +2,37 @@
 layout: categories
 ---
 
-{% for post in site.categories.podcasts %}
-	<li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
+<p id="podcasts"hidden>
+[
+  {% for post in site.categories.podcasts %}
+    {
+      "title": "{{ post.title }}",
+      "teaser": "{{post.image.alt}}",
+      "audio": "{{ post.podcast_link) }}",
+      "image": "{{ post.hero_image }}",
+      "path": "{{ post.url }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
+</p>
+
+  <div id='card'>
+    <div id='display'>
+      <div id='header'>
+        <h1 id='title'></h1>
+        <p>
+          <span id='song_title'></span>
+        </p>
+      </div>
+      <div id='image'>
+        <img src='' alt='' id='art' />
+      </div>
+      <audio controls src='' id='audio'>
+      </audio>
+    </div>
+    <div id='list'>
+    </div>
+  </div>
+</div>
+<script defer type="text/javascript" src="/assets/js/music-player.js">

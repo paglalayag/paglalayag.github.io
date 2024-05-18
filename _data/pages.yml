@@ -1,8 +1,8 @@
 pages:
   - {name: 'About', url: 'about'}
-  - {name: 'Posters/Presentations', url: 'presentations/'}
-  - {name: 'Tula/poems', url: 'tula/'}
+  - {name: 'Presentations', url: 'presentations/'}
+  - {name: 'Tula', url: 'tula/'}
   - {name: 'Coding', url: 'coding/'}
-  - {name: 'Interviews', url: 'interviews/'}
+  - {name: 'Podcast', url: 'podcast/'}
   - {name: 'Latest Episode', url: 'latest'}
   - {name: 'Subscribe', url: 'https://ck.paglalayag.net/'}

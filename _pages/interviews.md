@@ -1,6 +1,7 @@
 ---
 layout: interviews
-title: Interviews
+title: Podcast
 
-permalink: /interviews/
+permalink: /podcast
+redirect_from: /interviews
 ---

@@ -12,6 +12,7 @@ title: Home
 "- Are you tired of sifting through the same old dropshipping and encoder jobs?"
 %}
 
+{% include signup.html %} 
 
 ### - You’ve spent years abroad.  You've worked long hours in order to send your hard earned dollars home.
 
@@ -19,7 +20,6 @@ title: Home
 
 ### - You know that many have leveraged their time overseas into generational wealth for their kapamilya
 
-{% include signup.html %} 
 
 # In Paglalayag, the winds are always changing. How will you navigate to your destination?
 

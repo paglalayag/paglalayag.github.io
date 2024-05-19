@@ -1,5 +1,5 @@
 ---
-title: Kabilang Buhay | ᜃᜊᜒᜎᜅ᜔  ᜊᜓᜑᜌ᜔
+title: Maharayang Buhay | ᜋᜑᜇᜌᜅ᜔  ᜊᜓᜑᜌ᜔
 layout: poem
 hero_image: /assets/img/tula/kabilang-buhay.png
 image: /assets/img/tula/kabilang-buhay.png

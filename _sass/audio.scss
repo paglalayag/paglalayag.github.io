@@ -3,17 +3,21 @@
   justify-content: center;
   align-items: center;
   background: linear-gradient(0deg, $light-red 27%, $dark-red 75%);
-
+  color: #fff;
   a:hover {
     color: $purple;
   }
   a {
-    text-decoration: none;
-    color: $base;
+    color: $beige;
+    
     margin-right: 3px;
     font-size: 1.3rem;
   }
 }
+
+  .post-container #card {
+    width: 85% 
+  }
 
 #card {
   display: flex;
@@ -22,7 +26,7 @@
   border-radius: 20px;
   box-shadow: 0 0 20px rgba(0,0,0,.5);
   #display {
-    width: 60%;
+    width: 85%;
     border-radius: 20px 0 0 20px;
     background: rgba(255,255,255,.5);
     backdrop-filter: blur(30px) hue-rotate(20deg);
@@ -39,6 +43,7 @@
       margin: 0 auto;
     }
   }
+
   #list {
     width: 40%;
     border-radius: 0 20px 20px 0;

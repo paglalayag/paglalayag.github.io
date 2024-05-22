@@ -5,6 +5,7 @@ categories:
 hero_image: /assets/img/earth-reset.png
 image: /assets/img/earth-reset-og.jpg
 description: "resources for the planet"
+redirect_from: 2021/07/25/planetary-reset.html
 ---
 
 The entire planet is in reset mode. Though we have gone a long way from our ancient predecessors in terms of progress and innovation, humanity has been humbled these past two years by the novel coronavirus. 

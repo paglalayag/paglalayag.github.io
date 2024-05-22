@@ -5,6 +5,7 @@ categories:
 hero_image: /assets/img/happiness-gandhi.jpg
 image: /assets/img/happiness-gandhi-og.jpg
 description: "Happiness is when what you think, say, and do are in harmony"
+redirect_from: 2022/02/11/learning-to-fake-it.html
 ---
 
 “Happiness is when what you think, say, and do are in harmony” -Gandhi

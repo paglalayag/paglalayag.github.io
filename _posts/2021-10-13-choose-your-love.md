@@ -5,6 +5,7 @@ categories:
 hero_image: /assets/img/choices-trail.png
 image: /assets/img/choices-trail-og.jpg
 description: "The chains of habit are too weak to be felt until they are too strong to be broken. ― Samuel Johnson"
+redirect_from: 2021/10/13/choose-your-love.html
 ---
 
 # Preamble

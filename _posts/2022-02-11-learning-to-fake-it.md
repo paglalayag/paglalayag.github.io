@@ -5,6 +5,7 @@ categories:
 hero_image: /assets/img/ostracoda.jpg
 image: /assets/img/ostracoda-og.jpg
 description: "Learn to tell true from false...the new and the old ways"
+redirect_from: 2022/02/11/learning-to-fake-it.html
 ---
 
 Greetings, happy new year and a warm welcome in to the Year of the Tiger.

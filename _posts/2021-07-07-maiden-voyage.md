@@ -5,6 +5,7 @@ categories:
 hero_image: /assets/img/trail.jpg
 image: /assets/img/trail-og.jpg
 description: "This Week’s Top 7 Resources for Better Living"
+redirect_from: 2021/07/07/maiden-voyage.html
 ---
 
 As I write this, I am just a stone’s throw away from the Laguna lake. After a heavy rain, you get a majestic view, a play of light and shade blending with the Makati Ciy's skyline. The scenery is just right to go, ride a boat, then sail forward.

@@ -5,6 +5,7 @@ categories:
 hero_image: /assets/img/dumbbells.jpg
 image: /assets/img/dumbbells-og.jpg
 description: "I think the swimming set me up for life"
+redirect_from: 2021/08/19/reinventing-the-dumbbell.html
 ---
 
 “I think the swimming set me up for life, I really do. I think it gave me the tools, it gave me the lung capacity, it gave me the heart function, but most of all it taught me discipline because in strongman there are no coaches, there’s no one telling what to do, what to eat.” – [Eddie Hall](https://themalestrom.com/interviews/worlds-strongest-man-eddie-hall/)

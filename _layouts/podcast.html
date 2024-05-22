@@ -9,7 +9,7 @@ layout: categories
       "title": "{{ post.title }}",
       "teaser": "{{post.image.alt}}",
       "audio": "{{ post.podcast_link }}",
-      "image": "{{ post.hero_image }}",
+      "image": "{{ post.image.path }}",
       "path": "{{ post.url }}"
     }
     {% unless forloop.last %},{% endunless %}

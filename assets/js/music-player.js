@@ -50,7 +50,6 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('song_title').innerHTML = '<a href="' + s.path + '">Episode Page</a>';
     var albumArt = document.getElementById('art');
     albumArt.src = img;
-console.log("here " + audio)    ;
     albumArt.alt = artist + " " + track;
     document.getElementById('audio').src = audio;
   }

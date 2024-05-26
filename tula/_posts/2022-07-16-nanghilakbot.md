@@ -1,5 +1,5 @@
 ---
-title: Nangilabot | ᜈᜅᜒᜎᜊᜓᜆ᜔
+title: Nanghilakbot | ᜈᜅᜒᜑᜒᜎᜃ᜔ᜊᜓᜆ᜔
 layout: poem
 hero_image: /assets/img/tula/nangilabot.png
 image: /assets/img/tula/nangilabot.png
@@ -11,4 +11,4 @@ categories: tula
 |*mga anyong aswang* | | ᜋ᜔ᜅ  ᜀᜈᜒᜌᜓᜅ᜔  ᜀᜐ᜔ᜏᜈ᜔ |
 | *walang-hanggang bilang* | | ᜏᜎᜅ᜔  ᜑᜅ᜔ᜄᜅ᜔  ᜊᜒᜎᜅ᜔ |
 | *Mabigat ang hulog ng pagluhog* | | ᜋᜊᜒᜄᜆ᜔  ᜉᜅ᜔  ᜑᜓᜎᜓᜄ᜔  ᜅ᜔  ᜉᜄ᜔ᜎᜓᜑᜓᜄ᜔
- |
+|

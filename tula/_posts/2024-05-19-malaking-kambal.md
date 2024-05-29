@@ -1,8 +1,8 @@
 ---
 title: Malaking Kambal | ᜋᜎᜃᜒᜅ᜔  ᜃᜋ᜔ᜊᜎ᜔
 layout: poem
-hero_image: /assets/img/tula/malaking-kambal.png
-image: /assets/img/tula/malaking-kambal.png
+hero_image: /assets/img/tula/malaking-kambal.jpg
+image: /assets/img/tula/malaking-kambal.jpg
 categories: tula
 redirect_from: 2024/05/19/malaking-kambal/
 ---

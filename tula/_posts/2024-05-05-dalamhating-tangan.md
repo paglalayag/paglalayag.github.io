@@ -4,6 +4,7 @@ layout: poem
 hero_image: /assets/img/tula/dalamhating-tangan.jpg
 image: /assets/img/tula/dalamhating-tangan.jpg
 categories: tula
+redirect_from: 2024/05/05/dalamhating-tangan/
 ---
 
 | *kalahating kalapati dulot* | | ᜃᜎᜑᜆᜒᜅ᜔  ᜃᜎᜉᜆᜒᜅᜓ  ᜇᜓᜎᜓᜆ᜔ |

@@ -4,6 +4,7 @@ layout: poem
 hero_image: /assets/img/tula/kabilang-buhay.png
 image: /assets/img/tula/kabilang-buhay.png
 categories: tula
+redirect_from: 2022/07/23/maharayang-buhay/
 ---
 
 | *nangangahulugan kabutihan* | | ᜈᜅᜅᜑᜓᜎᜓᜄᜈ᜔  ᜃᜊᜓᜆᜒᜑᜈ᜔ |

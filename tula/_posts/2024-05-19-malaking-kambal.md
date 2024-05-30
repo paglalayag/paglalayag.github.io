@@ -15,11 +15,11 @@ redirect_from: 2024/05/19/malaking-kambal/
 | *kalahati loob balabal nagligtas* | | ᜃᜎᜑᜆ᜔  ᜎᜓᜁᜊ᜔  ᜊᜎᜊᜎ᜔  ᜈᜄ᜔ᜎᜒᜄ᜔ᜆᜐ᜔ |
 | *paalam nila tulad palaspas* | |ᜉᜀᜎᜋ᜔  ᜈᜒᜎ  ᜆᜓᜎᜇ᜔  ᜉᜎᜐ᜔ᜉᜐ᜔ |
 |*nagpili sumalungat talaga* | | ᜈᜄ᜔ᜉᜒᜎᜒ  ᜐᜓᜋᜎᜓᜅᜆ᜔  ᜆᜎᜄ |
-_________________
+| ____________________________________ | | ____________________________________ |
 | *Matulis taluktok ukol kanluran* | | ᜋᜆᜓᜎᜒᜐ᜔   ᜆᜎᜒᜃ᜔ᜆᜓᜃ᜔  ᜁᜃᜓᜎ᜔   ᜃᜈ᜔ᜎᜓᜇᜈ᜔  |
 | *ulupong masalubong almusal* | | ᜁᜎᜓᜉᜓᜅ᜔  ᜋᜐᜎᜓᜊᜓᜅ᜔  ᜀᜎ᜔ᜋᜓᜐᜎ᜔ |
 | *lumagay Lara walang gulatan* | |ᜎᜓᜋᜄᜌ᜔  ᜎᜇ  ᜏᜎᜅ᜔  ᜄᜓᜎᜆᜈ᜔ |
-_________________
+| ____________________________________ | | ____________________________________ |
 |*Madilim lalim lawa silangan* | | ᜋᜇᜒᜎᜒᜋ᜔  ᜎᜎᜒᜋ᜔  ᜎᜏ  ᜐᜒᜎᜅᜈ᜔  |
 | *madulas palos lumapit kumiwal* | | ᜋᜇᜓᜎᜐ᜔  ᜉᜎᜓᜐ᜔  ᜎᜓᜋᜉᜒᜆ᜔  ᜃᜓᜋᜒᜏᜎ᜔ |
 | *binaliti Elias bulalas baliwan* | | ᜊᜒᜈᜎᜒᜆᜒ  ᜂᜎᜒᜀᜐ᜔ ᜊᜎᜒᜏᜈ᜔  ᜊᜎᜒᜏ᜔ |

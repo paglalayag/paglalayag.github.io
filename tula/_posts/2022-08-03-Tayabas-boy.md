@@ -4,7 +4,7 @@ layout: poem
 hero_image: /assets/img/tula/tayabas-boy.png
 image: /assets/img/tula/tayabas-boy.png
 categories: tula
-redirect_from: 2022/08/03/Tayabas-boy/
+redirect_from: 2022/08/03/Tayabas-boy.html
 ---
 
 | *Nahihibang binibigkas* | | ᜈᜑᜒᜑᜒᜊᜅ᜔  ᜊᜒᜈᜒᜊᜒᜄ᜔ᜃᜐ᜔ |

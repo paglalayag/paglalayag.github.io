@@ -4,7 +4,7 @@ layout: poem
 hero_image: /assets/img/tula/malaking-kambal.jpg
 image: /assets/img/tula/malaking-kambal.jpg
 categories: tula
-redirect_from: 2024/05/19/malaking-kambal/
+redirect_from: 2024/05/19/malaking-kambal.html
 ---
 
 | *naglansad lang dalawang dalaga* | | ᜈᜄ᜔ᜎᜈ᜔ᜐᜇ᜔  ᜎᜅ᜔  ᜇᜎᜏᜅ᜔  ᜇᜎᜄ |

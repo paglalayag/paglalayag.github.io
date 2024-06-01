@@ -4,7 +4,7 @@ layout: poem
 hero_image: /assets/img/tula/kampanaryo.png
 image: /assets/img/tula/nangalibot.png
 categories: tula
-redirect_from: 2022/08/12/kampanaryo/
+redirect_from: 2022/08/12/kampanaryo.html
 ---
 
 |*Pagkinang sapirong dumapo't putong*| |ᜉ᜔ᜄ᜔ᜈᜃᜒᜈᜅ᜔  ᜐᜉᜒᜇᜓ  ᜇᜓᜋᜉᜓ'ᜆ᜔  ᜉᜓᜆᜓᜅ᜔ |

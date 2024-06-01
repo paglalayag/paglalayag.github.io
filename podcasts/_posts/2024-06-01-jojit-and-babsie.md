@@ -1,5 +1,5 @@
 ---
-title: Jojit-and-Babsie | Next2Fly Agritech
+title: Jojit and Babsie | Next2Fly Agritech
 layout: interview
 hero_image: /assets/img/interviews/jojit-and-babsie-paglalayag-interview.jpg
 image: 

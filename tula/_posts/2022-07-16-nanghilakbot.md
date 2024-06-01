@@ -4,7 +4,7 @@ layout: poem
 hero_image: /assets/img/tula/nangilabot.png
 image: /assets/img/tula/nangilabot.png
 categories: tula
-redirect_from: 2022/07/16/nanghilakbot.html
+redirect_from: 2022/07/16/nangilabot.html
 ---
 
 | *nayanig hagupit ng kulog* | | ᜈᜌᜈᜒᜄ᜔  ᜑᜄᜓᜉᜒᜆ᜔  ᜅ᜔  ᜃᜓᜎᜓᜄ᜔ |

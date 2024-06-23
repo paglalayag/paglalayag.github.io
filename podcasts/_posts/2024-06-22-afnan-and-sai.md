@@ -12,13 +12,16 @@ podcast_file_size: 9.2 MB
 podcast_duration: "19:00"
 podcast_length: 9340797
 ---
+
+[E-Trike Pangkabuhayan](https://www.facebook.com/etrike.pangkabuhayan) is a Cotabato City based Social Enterprise with the mission of converting the city's Sikads towards modernized, eco-friendly solar-charged electric tricycles.
+
+-----------------
+
 # Listen here!
 
 /assets/audio/afnan-and-sai-paglalayag-audio.mp3
 
 -----------------
-
-[E-Trike Pangkabuhayan](https://www.facebook.com/etrike.pangkabuhayan) is a Cotabato City based Social Enterprise with the mission of converting the city's Sikads towards modernized, eco-friendly solar-charged electric tricycles.
 
 Like many areas of the Philippines, Sikad operators (pedal-bike pedicabs) struggle to get ahead with the daily payments (boundary) they make operate their vehicles.
 

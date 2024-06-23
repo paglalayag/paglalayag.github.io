@@ -22,6 +22,10 @@ html{
     margin-right: auto;
 }
 
+.container {
+  min-height: 100vh;
+}
+
 .task-list{
   list-style: none;
 }

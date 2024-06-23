@@ -1,9 +1,9 @@
 ---
 title: Shawn and Joshua | InSpark Renewables
 layout: interview
-hero_image: /assets/img/interviews/shawn-&-joshua-paglalayag-interview.jpg
+hero_image: /assets/img/interviews/shawn-and-joshua-paglalayag-interview.jpg
 image: 
-  path: /assets/img/interviews/shawn-&-joshua-paglalayag-interview-og.jpg
+  path: /assets/img/interviews/shawn-and-joshua-paglalayag-interview-og.jpg
   height: 380
   width: 380
   alt: Success is Infinite

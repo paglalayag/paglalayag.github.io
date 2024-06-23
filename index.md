@@ -9,7 +9,7 @@ title: Home
 "- Is your overseas contract going to eventually expire?"
 %}
 {% include highlight.html text=
-"- Are you tired of sifting through the same old dropshipping and encoder jobs?"
+"- Are you looking for solid passive income opportunities?"
 %}
 
 {% include signup.html %} 

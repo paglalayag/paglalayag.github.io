@@ -1,5 +1,5 @@
 ---
-title: Shawn & Joshua | InSpark Renewables
+title: Shawn and Joshua | InSpark Renewables
 layout: interview
 hero_image: /assets/img/interviews/shawn-&-joshua-paglalayag-interview.jpg
 image: 

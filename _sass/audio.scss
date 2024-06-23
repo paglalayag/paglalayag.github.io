@@ -1,5 +1,5 @@
 .red {
-  height: 120vh;
+  height: 100%;
   justify-content: center;
   align-items: center;
   background: linear-gradient(0deg, $light-red 27%, $dark-red 75%);
@@ -20,11 +20,17 @@
   }
 
 #card {
-  display: flex;
   justify-content: center;
   align-items: stretch;
   border-radius: 20px;
   box-shadow: 0 0 20px rgba(0,0,0,.5);
+
+  #contents{
+    display: flex;
+    flex-direction: row;
+    height: 80vh;
+  }
+
   #display {
     width: 85%;
     border-radius: 20px 0 0 20px;
@@ -39,13 +45,15 @@
       text-align: center;
     }
     #art {
-      width: 100%;
+      max-width: 85%;
+      max-height: 85%;
       margin: 0 auto;
     }
   }
 
   #list {
     width: 40%;
+    overflow: auto;
     border-radius: 0 20px 20px 0;
     background: transparent;
     display: flex;
@@ -67,6 +75,27 @@
       }
       &:hover {
         cursor: pointer;
+      }
+    }
+  }
+
+  @media (max-width: 768px){
+    #contents {
+      flex-direction: column;
+      height: 150vh;
+
+      #display {
+        width: 100%;
+        border-radius: 20px 20px 0 0;
+      }
+      #list {
+        width: 100%;
+        border-radius: 0 0 20px 20px;
+        .item {
+          &:first-of-type {
+            border-radius: 0;
+          }
+        }
       }
     }
   }

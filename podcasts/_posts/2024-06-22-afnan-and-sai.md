@@ -1,5 +1,5 @@
 ---
-title: Afnan & Sai | E-Trike Pangkabuhayan
+title: Afnan and Sai | E-Trike Pangkabuhayan
 layout: interview
 hero_image: /assets/img/interviews/afnan-and-sai/afnan-n-sai.jpg
 image:

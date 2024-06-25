@@ -8,7 +8,7 @@ redirect_from:
   - /2024/05/10/PhRUG-restart.html
 ---
 
-## DITECH 2023
+## PhRUG Meetup Restart - Startup Launchkit Edition!
 
 [Meetup Event Page](https://www.meetup.com/ruby-phil/events/300734712)
 &

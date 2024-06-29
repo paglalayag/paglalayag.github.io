@@ -105,7 +105,7 @@
   background-color: $dark-red;
   border-radius: 10px;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
-  color: #9013fe;
+  color: #fff;
   display: inline-block;
   font-size: 0.475rem;
   line-height: 1;
@@ -119,12 +119,13 @@
   white-space: nowrap;
   will-change: box-shadow, transform;
   margin-top: 1rem;
-
-
-  a{
-    text-decoration: none;
-    color: #FFF; 
-    font-size: 1.05rem;
+  li a {
+      color: #fff;
+      text-decoration: none;
+  }
+  li a:hover {
+      color: #fff;
+      text-decoration: none;
   }
   p, ul, ol{
     li {
@@ -169,8 +170,19 @@
     color: #fff;
 }
 
-.podcast-hosts li {
+.podcast-hosts {
+  a {
+    text-decoration: none;
+    color: #FFF;
+    font-size: 1.05rem;
+  }
+
+  li {
+    text-align: center;
+    list-style-type: none;
+  }
+}
+
+.pod-host {
   height: 2rem;
-  text-align: center;
-  list-style-type: none;
 }

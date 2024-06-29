@@ -1,11 +1,10 @@
 <div class="podcast-hosts">
 	<ul>
 		{% for host in site.data.podcast_hosts %}
-			<li>
+			<li class="pod-host">
 				<a href="{{host.url}}"> <img src="{{host.icon}}"> {{host.title}} </a>
 			</li>
 		{% endfor %}
-
 		<li>
 			<div class="podsub-button">
 				<ul class="podsub-text">
@@ -21,6 +20,11 @@
 						</li>
 					</a>
 				</ul>
+			</div>
+		</li>
+		<li>
+			<div class="podsub-button">
+				<a href="/feedback"> Thanks for listening! We're listening too! </a>
 			</div>
 		</li>
 	</ul>

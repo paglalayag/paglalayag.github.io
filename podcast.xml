@@ -29,6 +29,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 <itunes:name>{{ site.podcast_owner }}</itunes:name>
 <itunes:email>{{ site.podcast_email }}</itunes:email>
 </itunes:owner>
+
 <managingEditor>{{ site.podcast_email }} ({{ site.podcast_owner }})</managingEditor>
 <itunes:subtitle>{{ site.podcast_subtitle }}</itunes:subtitle>
 <image>

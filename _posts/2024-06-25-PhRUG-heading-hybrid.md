@@ -20,14 +20,8 @@ categories: [coding]
 | 7:40PM | Networking |
 | 7:55PM | Closing remarks |
 
-| ![Ruby's Power in a nutshell](/assets/img/PhRUG/heading-hybrid-speakers-1.png){:height="400px"} |
+![Ruby's Power in a nutshell](/assets/img/PhRUG/heading-hybrid-attendees.jpg)
 
 [Meetup Event Page](https://www.meetup.com/ruby-phil/events/301171721)
 &
 [Facebook Page](https://www.facebook.com/phrug)
-
-
-
-Batangas City participants can register here:
-
-{% include smartsheet_embed.html id='b99e58982d1344cfa1b8075798d5aaf5' %}

@@ -15,10 +15,6 @@
   }
 }
 
-  .post-container #card {
-    width: 85% 
-  }
-
 #card {
   justify-content: center;
   align-items: stretch;
@@ -32,8 +28,7 @@
   }
 
   #display {
-    width: 85%;
-    border-radius: 20px 0 0 20px;
+    border-radius: 20px;
     background: rgba(255,255,255,.5);
     backdrop-filter: blur(30px) hue-rotate(20deg);
     display: flex;

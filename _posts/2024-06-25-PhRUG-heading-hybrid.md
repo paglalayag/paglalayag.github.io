@@ -20,8 +20,6 @@ categories: [coding]
 | 7:40PM | Networking |
 | 7:55PM | Closing remarks |
 
-![Ruby's Power in a nutshell](/assets/img/PhRUG/heading-hybrid-attendees.jpg)
-
 [Meetup Event Page](https://www.meetup.com/ruby-phil/events/301171721)
 &
 [Facebook Page](https://www.facebook.com/phrug)

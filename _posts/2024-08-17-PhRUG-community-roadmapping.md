@@ -9,6 +9,10 @@ categories: [coding]
 
 ## PhRUG is hitting the road...maps!
 
+{% include gcal_button.html id='BH6dBonP8UVb89zw7' %}
+
+**Wag abala kayo Batangas City Visitors!  You don't need to know how to code for this event!**
+
 This month, we are issuing a `DESIGN CHALLENGE` to the community!
 
 ```

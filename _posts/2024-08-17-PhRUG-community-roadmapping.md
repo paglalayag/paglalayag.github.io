@@ -9,11 +9,8 @@ categories: [coding]
 
 ## PhRUG is hitting the road...maps!
 
-{% include gcal_button.html id='BH6dBonP8UVb89zw7' %}
+This month, we issued a `DESIGN CHALLENGE` to the community!
 
-**Wag mag alala kayo Batangas City Visitors!  You don't need to know how to code for this event!**
-
-This month, we are issuing a `DESIGN CHALLENGE` to the community!
 
 ```
 How might we form the PhRUG cave to:
@@ -24,12 +21,14 @@ How might we form the PhRUG cave to:
  - Combine & compound their talents?
  - Help them continue to shine at all stages of their lives and careers?
 ```
-## Read more at the event page here:
-[Meetup Event Page](https://www.meetup.com/ruby-phil/events/302437676/)
+[
+	![Watch the video replay here!](/assets/img/PhRUG/community-roadmap-vid-page.png){:height="400px"}
+](https://web.facebook.com/watch/live/?ref=watch_permalink&v=1257154728976034)
 
-## Batangas City Participants please signup here:
+We met at [ProudCloud](https://www.proudcloud.io/) in Quezon City and DICT Regional Center in Batangas City.
 
+![The Community Roadmapping Meetup Crew!](/assets/img/PhRUG/community-roadmapping-attendees.png)
 
-{% include smartsheet_embed.html id='b99e58982d1344cfa1b8075798d5aaf5' %}
+The topics we discussed will set the foundation for how we develop the community over the coming years.
 
-
+Tuloy Tuloy Lang!!

@@ -34,4 +34,9 @@ We met at [ProudCloud](https://www.proudcloud.io/) in Quezon City and DICT Regio
 
 The topics we discussed will set the foundation for how we develop the community over the coming years.
 
+This is what the community came up with:
+
+![Community Roadmapping notes](/assets/img/PhRUG/community-roadmapping-notes.png)
+
+
 Tuloy Tuloy Lang!!

@@ -21,6 +21,9 @@ How might we form the PhRUG cave to:
  - Combine & compound their talents?
  - Help them continue to shine at all stages of their lives and careers?
 ```
+
+## Watch the video replay here!
+
 [
 	![Watch the video replay here!](/assets/img/PhRUG/community-roadmap-vid-page.png){:height="400px"}
 ](https://web.facebook.com/watch/live/?ref=watch_permalink&v=1257154728976034)

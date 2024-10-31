@@ -34,7 +34,7 @@ hide: true
 <br>
 
 
-| 蓮小桂，散桂香，身發玉桂萬人迷。 | Lin Siu Gwai, smells amazing, her cinnamon aura is intoxicating. |
+| 蓮小桂，散桂香，身發玉桂萬人迷。 | Lihn Siu Gwai, smells amazing, her cinnamon aura is intoxicating. |
 | 收成季，拜佛跪，癸時出發採秋葵。 | It is the harvest season, bow to Buddha, at 10 o’clock set off to pick okra |
 
 ![Lihn Siu Gwai P1](/assets/img/tula/lihn-siu-gwai-p1.jpg)

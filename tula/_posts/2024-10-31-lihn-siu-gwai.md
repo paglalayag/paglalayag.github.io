@@ -64,7 +64,7 @@ hide: true
 <br>
 
 | 窺門開， 急離開，靈鬼擋路揮劍宰。 | Glimpse an open door, hurry to leave. Spirit ghosts block her way and she kills it with the sword. |
-| 劍兩翼，沾鬼液，黏滑似葵膩之極。 | Both winds of the sword, stained with slime, very slippery and slimy. |
+| 劍兩翼，沾鬼液，黏滑似葵膩之極。 | Both sides of the sword, stained with slime, very slippery and slimy. |
 | 凱旋歸，守空閨 | Returns in triumph, back to her boudoir |
 
 ![Lihn Siu Gwai P4](/assets/img/tula/lihn-siu-gwai-p4.jpg)

@@ -1,6 +1,7 @@
 ---
 title: Nanghilakbot | ᜈᜅᜒᜑᜒᜎᜃ᜔ᜊᜓᜆ᜔
-layout: poem
+layout: baybayin-poem
+
 hero_image: /assets/img/tula/nangilabot.png
 image: /assets/img/tula/nangilabot.png
 categories: tula

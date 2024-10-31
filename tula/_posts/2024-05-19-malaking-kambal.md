@@ -1,6 +1,7 @@
 ---
 title: Malaking Kambal | ᜋᜎᜃᜒᜅ᜔  ᜃᜋ᜔ᜊᜎ᜔
-layout: poem
+layout: baybayin-poem
+
 hero_image: /assets/img/tula/malaking-kambal.jpg
 image: /assets/img/tula/malaking-kambal.jpg
 categories: tula

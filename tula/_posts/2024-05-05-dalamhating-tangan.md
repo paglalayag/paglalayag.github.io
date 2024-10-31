@@ -1,6 +1,7 @@
 ---
 title: Dalamhating Tangan | ᜇᜎᜋᜑᜆᜒᜅ᜔  ᜆᜅᜈ᜔
-layout: poem
+layout: baybayin-poem
+
 hero_image: /assets/img/tula/dalamhating-tangan.jpg
 image: /assets/img/tula/dalamhating-tangan.jpg
 categories: tula

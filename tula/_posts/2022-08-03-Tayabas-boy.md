@@ -1,6 +1,7 @@
 ---
 title: Tayabas Boy | ᜆᜌᜊᜐ᜔  ᜊᜓᜂ
-layout: poem
+layout: baybayin-poem
+
 hero_image: /assets/img/tula/tayabas-boy.png
 image: /assets/img/tula/tayabas-boy.png
 categories: tula

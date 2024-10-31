@@ -1,6 +1,7 @@
 ---
 title: Kampanaryo | ᜃᜋ᜔ᜉᜈᜇ᜔ᜌᜓ
-layout: poem
+layout: baybayin-poem
+
 hero_image: /assets/img/tula/kampanaryo.png
 image: /assets/img/tula/nangalibot.png
 categories: tula

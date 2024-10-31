@@ -7,19 +7,9 @@ image: /assets/img/tula/蓮小桂-translation.jpeg
 categories: tula
 hide: true
 ---
-	Lin Siu Gwai, 
-
-	smells amazing, 
-
-	her cinnamon aura is 
-
-	intoxicating.
+	Lin Siu Gwai, smells amazing, her cinnamon aura is intoxicating.
 	
-	Meanwhile,
-
-	🎃 This poetic story 
-
-	reeks of ghosts 👻
+	🎃 This poetic story, on the other hand, reeks of ghosts 👻
 
 
 <br>

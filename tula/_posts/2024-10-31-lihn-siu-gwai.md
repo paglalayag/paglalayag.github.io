@@ -8,7 +8,12 @@ categories: tula
 hide: true
 ---
 	🎃 This poetic story reeks of ghosts 👻
-	Meanwhile, Lin Siu Gwai, smells amazing, her cinnamon aura is intoxicating.
+
+	Meanwhile, Lin Siu Gwai, 
+
+	smells amazing, 
+
+	her cinnamon aura is intoxicating.
 
 <br>
 <hr>

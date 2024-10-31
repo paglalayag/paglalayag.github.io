@@ -35,7 +35,7 @@ hide: true
 
 
 | 蓮小桂，散桂香，身發玉桂萬人迷。 | Lihn Siu Gwai, smells amazing, her cinnamon aura is intoxicating. |
-| 收成季，拜佛跪，癸時出發採秋葵。 | It is the harvest season, bow to Buddha, at 10 o’clock set off to pick okra |
+| 收成季，拜佛跪，癸時出發採秋葵。 | It is the harvest season, bow to Buddha, at 10 o’clock she sets off to pick okra |
 
 ![Lihn Siu Gwai P1](/assets/img/tula/lihn-siu-gwai-p1.jpg)
 
@@ -44,8 +44,8 @@ hide: true
 <br>
 
 |小鬼怪，受遣派，尋覓閨女返靈界。 | A little ghost, is sent to find maidens and bring them to the spirit world. |
-| 拐小桂，嫌味壞，帶女前往見神怪。 | Kidnaps Siu Gwai, hates her smell, and takes her to see the demons and monsters. |
-| 越詭山，過幽河| Over eerie mountain, crossing secluded river |
+| 拐小桂，嫌味壞，帶女前往見神怪。 | Snatches Siu Gwai, hates her smell, and takes her to see the demons and monsters. |
+| 越詭山，過幽河| Over an eerie mountain, across a secluded river |
 
 ![Lihn Siu Gwai P2](/assets/img/tula/lihn-siu-gwai-p2.jpg)
 
@@ -54,8 +54,8 @@ hide: true
 <br>
 
 | 擺脫鬼手心餘悸。| she breaks free from her ghoulish captor but still has lingering fear |
-| 鬼追人，狂嗅尋，藏身桂樹唇緊閉。 | Ghost chases after, crazily sniffing and searching for her, she hides in the cinnamon tree with tighten lips. |
-| 遇危澗，踏靈龜，餽贈玉劍心有愧。 | Traversing a perilous stream, stumbles over a spirit tortoise, receives a jade sword with guilt. |
+| 鬼追人，狂嗅尋，藏身桂樹唇緊閉。 | Ghost chases after, crazily sniffing and searching, she hides in the cinnamon tree with pursed lips. |
+| 遇危澗，踏靈龜，餽贈玉劍心有愧。 | Traversing a perilous stream, she stumbles over a spirit tortoise and receives a jade sword with guilt. |
 
 ![Lihn Siu Gwai P3](/assets/img/tula/lihn-siu-gwai-p3.jpg)
 

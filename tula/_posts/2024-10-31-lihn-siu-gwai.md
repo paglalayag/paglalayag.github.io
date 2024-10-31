@@ -25,21 +25,26 @@ hide: true
 
 | 蓮小桂，散桂香，身發玉桂萬人迷。 | Lin Siu Gwai, smells amazing, her cinnamon aura is intoxicating. |
 | 收成季，拜佛跪，癸時出發採秋葵。 | It is the harvest season, bow to Buddha, at 10 o’clock set off to pick okra |
-|小鬼怪，受遣派，尋覓閨女返靈界。 | A little ghost, is sent to find maidens and bring them to the spirit world. |
-| 拐小桂，嫌味壞，帶女前往見神怪。 | Kidnaps Siu Gwai, hates her smell, and takes her to see the demons and monsters. |
-| 越詭山，過幽河，擺脫鬼手心餘悸。| Over eerie mountain, crossing secluded river, she breaks free from her ghoulish captor but still has lingering fear |
-| 鬼追人，狂嗅尋，藏身桂樹唇緊閉。 | Ghost chases after, crazily sniffing and searching for her, she hides in the cinnamon tree with tighten lips. |
-| 遇危澗，踏靈龜，餽贈玉劍心有愧。 | Traversing a perilous stream, stumbles over a spirit tortoise, receives a jade sword with guilt. |
-| 窺門開， 急離開，靈鬼擋路揮劍宰。 | Glimpse an open door, hurry to leave. Spirit ghosts block her way and she kills it with the sword. |
-| 劍兩翼，沾鬼液，黏滑似葵膩之極。 | Both winds of the sword, stained with slime, very slippery and slimy. |
-| 凱旋歸，守空閨，今後再不吃秋葵。 | Returns in triumph, back to her boudoir, and never eat okra again. |
 
 ![Lihn Siu Gwai P1](/assets/img/tula/lihn-siu-gwai-p1.jpg)
 
+|小鬼怪，受遣派，尋覓閨女返靈界。 | A little ghost, is sent to find maidens and bring them to the spirit world. |
+| 拐小桂，嫌味壞，帶女前往見神怪。 | Kidnaps Siu Gwai, hates her smell, and takes her to see the demons and monsters. |
+| 越詭山，過幽河| Over eerie mountain, crossing secluded river |
+
 ![Lihn Siu Gwai P2](/assets/img/tula/lihn-siu-gwai-p2.jpg)
 
+|擺脫鬼手心餘悸。| she breaks free from her ghoulish captor but still has lingering fear |
+| 鬼追人，狂嗅尋，藏身桂樹唇緊閉。 | Ghost chases after, crazily sniffing and searching for her, she hides in the cinnamon tree with tighten lips. |
+| 遇危澗，踏靈龜，餽贈玉劍心有愧。 | Traversing a perilous stream, stumbles over a spirit tortoise, receives a jade sword with guilt. |
 ![Lihn Siu Gwai P3](/assets/img/tula/lihn-siu-gwai-p3.jpg)
 
+| 窺門開， 急離開，靈鬼擋路揮劍宰。 | Glimpse an open door, hurry to leave. Spirit ghosts block her way and she kills it with the sword. |
+| 劍兩翼，沾鬼液，黏滑似葵膩之極。 | Both winds of the sword, stained with slime, very slippery and slimy. |
+| 凱旋歸，守空閨 | Returns in triumph, back to her boudoir |
+
 ![Lihn Siu Gwai P4](/assets/img/tula/lihn-siu-gwai-p4.jpg)
+
+| 今後再不吃秋葵。 | and never eat okra again. |
 
 ![Lihn Siu Gwai P5](/assets/img/tula/lihn-siu-gwai-p5.jpg)

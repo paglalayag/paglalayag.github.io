@@ -33,3 +33,13 @@ hide: true
 | 窺門開， 急離開，靈鬼擋路揮劍宰。 | Glimpse an open door, hurry to leave. Spirit ghosts block her way and she kills it with the sword. |
 | 劍兩翼，沾鬼液，黏滑似葵膩之極。 | Both winds of the sword, stained with slime, very slippery and slimy. |
 | 凱旋歸，守空閨，今後再不吃秋葵。 | Returns in triumph, back to her boudoir, and never eat okra again. |
+
+![Lihn Siu Gwai P1](/assets/img/tula/lihn-siu-gwai-p1.jpg)
+
+![Lihn Siu Gwai P2](/assets/img/tula/lihn-siu-gwai-p2.jpg)
+
+![Lihn Siu Gwai P3](/assets/img/tula/lihn-siu-gwai-p3.jpg)
+
+![Lihn Siu Gwai P4](/assets/img/tula/lihn-siu-gwai-p4.jpg)
+
+![Lihn Siu Gwai P5](/assets/img/tula/lihn-siu-gwai-p5.jpg)

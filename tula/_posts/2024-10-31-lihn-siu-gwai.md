@@ -1,5 +1,5 @@
 ---
-title: 蓮小桂 | Lihn Siu Gwai
+title: Lihn Siu Gwai | 蓮小桂
 layout: poem
 
 hero_image: /assets/img/tula/蓮小桂-translation.jpeg

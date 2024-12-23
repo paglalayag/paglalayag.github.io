@@ -1,5 +1,5 @@
 ---
-title: Philippine Ruby Users Group Restart
+title: Philippine Ruby Users Group Restart | Startup Launchkit Edition
 layout: post
 hero_image: /assets/img/PhRUG/phrug-may-meetup.jpg
 image: /assets/imgPhRUG/PhRUG-logo.png

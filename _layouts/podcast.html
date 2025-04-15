@@ -5,14 +5,16 @@ layout: categories
 <p id="podcasts"hidden>
 [
   {% for post in site.categories.podcasts %}
-    {
-      "title": "{{ post.title }}",
-      "teaser": "{{post.image.alt}}",
-      "audio": "{{ post.podcast_link }}",
-      "image": "{{ post.image.path }}",
-      "path": "{{ post.url }}"
-    }
+    {% unless post.is_redirect %}
+      {
+        "title": "{{ post.title }}",
+        "teaser": "{{post.image.alt}}",
+        "audio": "{{ post.podcast_link }}",
+        "image": "{{ post.image.path }}",
+        "path": "{{ post.url }}"
+      }
     {% unless forloop.last %},{% endunless %}
+    {% endunless %}
   {% endfor %}
 ]
 </p>

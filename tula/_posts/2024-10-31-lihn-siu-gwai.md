@@ -77,4 +77,3 @@ hide: true
 
 ![Lihn Siu Gwai P5](/assets/img/tula/lihn-siu-gwai-p5.jpg)
 
-This is also published via writebook.  Which you can check out at [aklatan.paglalayag.net](https://aklatan.paglalayag.net)

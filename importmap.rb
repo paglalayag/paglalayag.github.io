@@ -5,4 +5,4 @@ pin "@hotwired/stimulus", to: "https://cdn.jsdelivr.net/npm/@hotwired/stimulus@3
 pin "@hotwired/hotwire-native-bridge", to: "https://cdn.jsdelivr.net/npm/@hotwired/hotwire-native-bridge@1.0.0", preload: true
 pin "@hotwired/stimulus-loading", to: "assets/js/stimulus-loading.js", preload: true
 
-pin_all_from "assets/js/controllers", to: "controllers", under: "controllers"
+pin_all_from "controllers", to: "assets/js/controllers", under: "controllers"

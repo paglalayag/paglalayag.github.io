@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
   for (x = 0; x < podcasts.length; x++) {
     var s = podcasts[x];
     var number = parseInt(x) + 1;
-    var artist = document.createTextNode(number + ": " + s.title);
+    var artist = document.createTextNode(s.title);
     var track_name = document.createTextNode(s.teaser);
     
     var listItem = document.createElement('div');
@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
         audio = s.audio,
         img = s.image,
         number = parseInt(x) + 1;
-    document.getElementById('title').innerText = number + ": " + artist;
+    document.getElementById('title').innerText = artist;
     document.getElementById('song_title').innerHTML = '<a href="' + s.path + '">Episode Page</a>';
     var albumArt = document.getElementById('art');
     albumArt.src = img;

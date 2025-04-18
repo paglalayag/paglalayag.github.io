@@ -42,7 +42,6 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 <itunes:category text="{{ site.podcast_subcategory_two }}" />
 </itunes:category>
 {% for ep in site.categories.podcasts %}
-  {% unless post.is_redirect %}
     <item>
       <title>{{ ep.title }}</title>
       <link>{{ site.url }}{{ ep.url }}</link>
@@ -71,7 +70,6 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
       <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
       <itunes:duration>{{ ep.podcast_duration }}</itunes:duration>
     </item>
-  {% endunless %}
 {% endfor %}
 </channel>
 </rss>

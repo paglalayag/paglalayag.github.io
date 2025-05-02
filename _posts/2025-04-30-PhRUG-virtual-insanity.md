@@ -7,7 +7,7 @@ categories: [coding]
 
 ---
 
-## PhRUG is Cashin' In!
+## PhRUG is Goin' Bonkers!
 [ProudCloud](https://www.proudcloud.io/) hosted our 4th Meetup of the year.  Many thanks to Jay and the team!
 
 ### Shapeup

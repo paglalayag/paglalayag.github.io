@@ -18,24 +18,22 @@ layout: categories
   {% endfor %}
 ]
 </p>
-
-  <div id='card' data-controller="favorite-toggle">
-    <div id='contents'>
-      <div id='display'>
-        <div id='card-header'>
-          <h1 id='title'></h1>
-          <p>
-            <span id='song_title'></span>
-          </p>
-        </div>
-        <div id='image'>
-          <img src='' alt='' id='art' />
-        </div>
-        <audio controls src='' id='audio'>
-        </audio>
+  <div id='contents'>
+    <div id='display'>
+      <div id='card-header'>
+        <h1 id='title'></h1>
+        <p>
+          <span id='song_title'></span>
+          <span id='save_button'></span>
+        </p>
       </div>
-      <div id='list'>
+      <div id='image'>
+        <img src='' alt='' id='art' />
       </div>
+      <audio controls src='' id='audio'>
+      </audio>
+    </div>
+    <div id='list'>
     </div>
   </div>
   {% include podsub.html %}

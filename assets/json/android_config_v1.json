@@ -1,0 +1,16 @@
+{
+    "json": {
+        "settings": {},
+        "rules": [
+            {
+                "patterns": [
+                    ".*"
+                ],
+                "properties": {
+                    "uri": "hotwire://fragment/web",
+                    "pull_to_refresh_enabled": true
+                }
+            }
+        ]
+    }
+}

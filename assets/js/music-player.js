@@ -1,38 +1,37 @@
 let podcasts = JSON.parse(document.getElementById('podcasts').firstChild.data)
 
 document.addEventListener('DOMContentLoaded', () => {
-  for (x = 0; x < podcasts.length; x++) {
+  for (let x = 0; x < podcasts.length; x++) {
     var s = podcasts[x];
     var number = parseInt(x) + 1;
     var artist = document.createTextNode(s.title);
     var track_name = document.createTextNode(s.teaser);
-    
+
     var listItem = document.createElement('div');
     var artist_text = document.createElement('h3');
     var track_text = document.createElement('p');
     var episode_link = document.createElement('a');
 
-
     artist_text.appendChild(artist);
     track_text.appendChild(track_name);
-    
+
     listItem.appendChild(artist_text);
     listItem.appendChild(track_text);
-    
+
     listItem.classList.add('item');
     listItem.dataset.index = x;
-    
+
     document.getElementById('list').appendChild(listItem);
   }
   displayTrack(0);
-  
+
   var listItems = document.querySelectorAll('.item');
   listItems.forEach(el => {
     el.onclick = () => {
       displayTrack(el.dataset.index);
     };
   });
-  
+
   function displayTrack(x) {
     var active = document.querySelector('.is-active');
     if (active) {
@@ -48,6 +47,14 @@ document.addEventListener('DOMContentLoaded', () => {
         number = parseInt(x) + 1;
     document.getElementById('title').innerText = artist;
     document.getElementById('song_title').innerHTML = '<a href="' + s.path + '">Episode Page</a>';
+    if(navigator.userAgent.match(/(Turbo|Hotwire) Native/)) {
+      document.getElementById('save_button').innerHTML =
+        `<a href="#" data-controller="bridge--favorite-toggle" \
+          data-action="click->bridge--favorite-toggle#toggle" \
+          data-bridge-episode_url="${audio}"/> \
+          <i class="fa-download"></i>\
+        </a>`;
+    }
     var albumArt = document.getElementById('art');
     albumArt.src = img;
     albumArt.alt = artist + " " + track;

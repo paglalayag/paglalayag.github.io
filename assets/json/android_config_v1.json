@@ -1,23 +1,24 @@
 {
-    "json": {
-        "settings": {},
-        "rules": [
-            {
-                "patterns": [
-                    ".*"
-                ],
-                "properties": {
-                    "uri": "hotwire://fragment/web",
-                    "pull_to_refresh_enabled": true
-                },
-                "patterns": [
-                    "/favorites"
-                ],
-                "properties": {
-                    "uri": "hotwire://fragment/favorites",
-                    "title": "Favorites"
-                }
-            }
-        ]
-    }
+  "json": {
+    "settings": {},
+    "rules": [
+      {
+        "patterns": [
+            ".*"
+        ],
+        "properties": {
+          "uri": "hotwire://fragment/web",
+          "pull_to_refresh_enabled": true
+        }
+      }, {
+        "patterns": [
+          "/favorites"
+        ],
+        "properties": {
+          "uri": "hotwire://fragment/favorites",
+          "title": "Favorites"
+        }
+      }
+    ]
+  }
 }

@@ -17,14 +17,18 @@
     <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/feed.xml" />
 
     <!-- FAVICON -->
-    <link rel="icon" href="{{ assets/favicon2.ico | relative_url }}" type="image/x-icon">
-    <link rel="shortcut icon" href="{{ assets/favicon2.ico | relative_url }}" type="image/x-icon">
+    <link rel="icon" href="{{"assets/favicon2.ico" | relative_url }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{"assets/favicon2.ico" | relative_url }}" type="image/x-icon">
 
     {% importmap %}
 
     <!-- CSS -->
-    <link rel="stylesheet" href="{{ assets/css/main.css | relative_url }}">
-    <link rel="stylesheet" href="{{ assets/css/syntax.css | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/syntax.css" | relative_url }}">
+
+    {% if site.data.settings.subtitle.active %}
+        <link rel="stylesheet" href="{{ "/assets/css/native.css" | relative_url }}">
+    {% endif %}
 
     <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">

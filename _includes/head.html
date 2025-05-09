@@ -26,9 +26,7 @@
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/syntax.css" | relative_url }}">
 
-    {% if site.data.settings.subtitle.active %}
-        <link rel="stylesheet" href="{{ "/assets/css/native.css" | relative_url }}">
-    {% endif %}
+    <div id="native-sheet" data-controller="native-css-controller"></div>
 
     <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">

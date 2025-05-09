@@ -18,24 +18,25 @@ layout: categories
   {% endfor %}
 ]
 </p>
-  <div id='contents'>
-    <div id='display'>
-      <div id='card-header'>
-        <h1 id='title'></h1>
-        <p>
-          <span id='song_title'></span>
-          <span id='save_button'></span>
-        </p>
+  <div id='card'>
+    <div id='contents'>
+      <div id='display'>
+        <div id='card-header'>
+          <h1 id='title'></h1>
+          <p>
+            <span id='song_title'></span>
+            <span id='save_button'></span>
+          </p>
+        </div>
+        <div id='image'>
+          <img src='' alt='' id='art' />
+        </div>
+        <audio controls src='' id='audio'>
+        </audio>
       </div>
-      <div id='image'>
-        <img src='' alt='' id='art' />
+      <div id='list'>
       </div>
-      <audio controls src='' id='audio'>
-      </audio>
     </div>
-    <div id='list'>
-    </div>
-  </div>
-  {% include podsub.html %}
+    {% include podsub.html %}
 </div>
 <script defer type="text/javascript" src="/assets/js/music-player.js"></script>

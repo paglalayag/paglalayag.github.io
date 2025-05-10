@@ -1,25 +1,23 @@
 {
-  "json": {
-    "settings": {},
-    "rules": [
-      {
-        "patterns": [
-            "podcast"
-        ],
-        "properties": {
-          "uri": "hotwire://fragment/web",
-          "pull_to_refresh_enabled": true
-        }
-      }, {
-        "patterns": [
-          "favorites"
-        ],
-        "properties": {
-          "uri": "hotwire://fragment/favorites",
-          "title": "Favorites",
-          "pull_to_refresh_enabled": false
-        }
+  "settings": {},
+  "rules": [
+    {
+      "patterns": [
+          "/podcast"
+      ],
+      "properties": {
+        "uri": "hotwire://fragment/web",
+        "pull_to_refresh_enabled": true
       }
-    ]
-  }
+    }, {
+      "patterns": [
+        "/favorites"
+      ],
+      "properties": {
+        "uri": "hotwire://fragment/favorites",
+        "title": "Favorites",
+        "pull_to_refresh_enabled": false
+      }
+    }
+  ]
 }

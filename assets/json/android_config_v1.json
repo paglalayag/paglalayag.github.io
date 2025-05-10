@@ -16,7 +16,8 @@
         ],
         "properties": {
           "uri": "hotwire://fragment/favorites",
-          "title": "Favorites"
+          "title": "Favorites",
+          "pull_to_refresh_enabled": false
         }
       }
     ]

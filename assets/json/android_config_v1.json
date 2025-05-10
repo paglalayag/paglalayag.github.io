@@ -3,7 +3,7 @@
   "rules": [
     {
       "patterns": [
-          "/podcast"
+          ".*"
       ],
       "properties": {
         "uri": "hotwire://fragment/web",
@@ -16,7 +16,6 @@
       "properties": {
         "uri": "hotwire://fragment/favorites",
         "title": "Favorites",
-        "pull_to_refresh_enabled": false
       }
     }
   ]

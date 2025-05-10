@@ -4,7 +4,7 @@
     "rules": [
       {
         "patterns": [
-            "/podcast"
+            "podcast"
         ],
         "properties": {
           "uri": "hotwire://fragment/web",
@@ -12,7 +12,7 @@
         }
       }, {
         "patterns": [
-          "/favorites"
+          "favorites"
         ],
         "properties": {
           "uri": "hotwire://fragment/favorites",

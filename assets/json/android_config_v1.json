@@ -6,7 +6,7 @@
           ".*"
       ],
       "properties": {
-        "uri": "hotwire://fragment/web",
+        "uri": "hotwire://fragment/bound_web",
         "pull_to_refresh_enabled": true
       }
     }, {

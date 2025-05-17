@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('song_title').innerHTML = '<a href="' + s.path + '">Episode Page</a>';
     if(navigator.userAgent.match(/(Turbo|Hotwire) Native/)) {
       document.getElementById('save_button').innerHTML =
-        `<a href="#" id="favorite-toggle-button" data-controller="bridge--favorite-toggle" \
+        `<a href="#" data-controller="bridge--favorite-toggle" \
           data-action="click->bridge--favorite-toggle#toggle" \
           data-bridge-episode_url="${audio}"/> \
           <i class="fa-download"></i>\

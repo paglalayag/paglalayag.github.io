@@ -45,19 +45,32 @@ document.addEventListener('DOMContentLoaded', () => {
         audio = s.audio,
         img = s.image,
         number = parseInt(x) + 1;
-    document.getElementById('title').innerText = artist;
-    document.getElementById('song_title').innerHTML = '<a href="' + s.path + '">Episode Page</a>';
-    if(navigator.userAgent.match(/(Turbo|Hotwire) Native/)) {
-      document.getElementById('save_button').innerHTML =
-        `<a href="#" data-controller="bridge--favorite-toggle" \
-          data-action="click->bridge--favorite-toggle#toggle" \
-          data-bridge-episode_url="${audio}"/> \
-          <i class="fa-download"></i>\
-        </a>`;
-    }
+
     var albumArt = document.getElementById('art');
     albumArt.src = img;
     albumArt.alt = artist + " " + track;
     document.getElementById('audio').src = audio;
+
+    const audioElement = document.querySelector("audio");
+    audioElement.addEventListener("durationchange", (event) => {
+      const audioDuration = Math.trunc(audioElement.duration * 1000) // cast to integer millis
+      renderSaveButton(audioDuration)
+    });
+
+    document.getElementById('title').innerText = artist;
+    document.getElementById('song_title').innerHTML = '<a href="' + s.path + '">Episode Page</a>';
   }
 })
+
+function renderSaveButton(duration) {
+  if(navigator.userAgent.match(/(Turbo|Hotwire) Native/)) {
+    document.getElementById('save_button').innerHTML =
+      `<a href="#" data-controller="bridge--favorite-toggle" \
+        data-action="click->bridge--favorite-toggle#toggle" \
+        data-bridge-episode_url="${audio}"
+        data-bridge-episode_duration="${duration}"/> \
+        <i class="fas fa-cloud-download-alt"></i>\
+        <i class="fas fa-trash-alt"></i>\
+      </a>`;
+  }
+}

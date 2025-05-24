@@ -7,7 +7,8 @@ export default class FavoriteToggleController extends BridgeComponent {
 		super.connect()
 
 		const episode_url = this.bridgeElement.bridgeAttribute("episode_url")
-		this.send("connect", {episode_url}, () => {    
+		const duration = this.bridgeElement.bridgeAttribute("episode_duration")
+		this.send("connect", {episode_url, duration}, () => {
 		})
 	}
 

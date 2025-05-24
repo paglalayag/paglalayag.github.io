@@ -13,9 +13,11 @@ export default class FavoriteToggleController extends BridgeComponent {
 	}
 
 	toggle() {
+		const episode_url = this.bridgeElement.bridgeAttribute("episode_url")
+
 		console.log("toggle!")
 		this.send("toggle", {episode_url}, () => {
-				console.log("toggle response!", this)
+			console.log("toggle response!", this)
 		})
 	}
 

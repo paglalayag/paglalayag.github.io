@@ -13,7 +13,7 @@ export default class FavoriteToggleController extends BridgeComponent {
 	}
 
 	toggle() {
-		console.log("toggle!")
+		console.log("toggle!", this)
 		this.bridgeElement.click()
 	}
 }

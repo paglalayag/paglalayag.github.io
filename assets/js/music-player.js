@@ -67,7 +67,7 @@ function renderSaveButton(duration) {
     document.getElementById('save_button').innerHTML =
       `<a href="#" data-controller="bridge--favorite-toggle" \
         data-action="click->bridge--favorite-toggle#toggle" \
-        data-bridge-episode_url="${audio}"
+        data-bridge-episode_url="${audio.src}"
         data-bridge-episode_duration="${duration}"/> \
         <i class="fas fa-cloud-download-alt"></i>\
         <i class="fas fa-trash-alt"></i>\

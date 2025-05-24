@@ -21,6 +21,8 @@ export default class FavoriteToggleController extends BridgeComponent {
 		})
 	}
 	setFavorite() {
+		super.connect()
+
 		const episode_url = this.bridgeElement.bridgeAttribute("episode_url")
 
 		console.log("setFavorite!", this.jsonData)

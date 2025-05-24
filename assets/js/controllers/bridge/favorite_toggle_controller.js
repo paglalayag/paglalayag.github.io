@@ -17,12 +17,7 @@ export default class FavoriteToggleController extends BridgeComponent {
 
 		console.log("toggle!")
 		this.send("toggle", {episode_url}, () => {
-			console.log("toggle response!", this)
 			this.bridgeElement.click()
 		})
-	}
-
-	setFavorite() {
-		console.log("setFavorite!!", this)
 	}
 }

@@ -15,7 +15,7 @@ export default class FavoriteToggleController extends BridgeComponent {
 	toggle() {
 		const episode_url = this.bridgeElement.bridgeAttribute("episode_url")
 
-		console.log("toggle!", this)
+		console.log("toggle!", this.jsonData)
 		this.send("toggle", {episode_url}, () => {
 			this.bridgeElement.click()
 		})

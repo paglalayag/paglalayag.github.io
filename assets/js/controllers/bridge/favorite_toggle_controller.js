@@ -10,6 +10,8 @@ export default class FavoriteToggleController extends BridgeComponent {
 		const episode_duration = this.bridgeElement.bridgeAttribute("episode_duration")
 		this.send("connect", {episode_url, episode_duration}, () => {
 		})
+
+		toggle() //the native-bridge will only respond to events it has already received a message from
 	}
 
 	toggle() {
@@ -21,13 +23,10 @@ export default class FavoriteToggleController extends BridgeComponent {
 		})
 	}
 	setFavorite() {
-		super.connect()
-
 		const episode_url = this.bridgeElement.bridgeAttribute("episode_url")
 
-		console.log("setFavorite!", this.jsonData)
 		this.send("setFavorite", {episode_url}, () => {
-			this.bridgeElement.click()
+			console.log("setFavorite!", this.jsonData)
 		})
 	}
 }

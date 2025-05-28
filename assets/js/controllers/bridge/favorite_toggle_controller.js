@@ -3,6 +3,17 @@ import { BridgeComponent } from "@hotwired/hotwire-native-bridge"
 export default class FavoriteToggleController extends BridgeComponent {
 	static component = "favoriteToggle"
 
+	connect() {
+		super.connect()
+
+		const episode_url = this.bridgeElement.bridgeAttribute("episode_url")
+		const episode_duration = this.bridgeElement.bridgeAttribute("episode_duration")
+		this.send("connect", {episode_url, episode_duration}, () => {
+		})
+
+		this.setFavorite(episode_url) //the native-bridge will only respond to events it has already received a message from
+	}
+
 	setFavorite(episode_url_from_connect) {
 		var episode_url
 
@@ -14,17 +25,6 @@ export default class FavoriteToggleController extends BridgeComponent {
 			console.log("setFavorite!", this.jsonData)
 		// this.send("setFavorite", {episode_url}, () => {
 		// })
-	}
-
-	connect() {
-		super.connect()
-
-		const episode_url = this.bridgeElement.bridgeAttribute("episode_url")
-		const episode_duration = this.bridgeElement.bridgeAttribute("episode_duration")
-		this.send("connect", {episode_url, episode_duration}, () => {
-		})
-
-		this.setFavorite(episode_url) //the native-bridge will only respond to events it has already received a message from
 	}
 
 	toggle() {

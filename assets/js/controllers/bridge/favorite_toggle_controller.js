@@ -2,6 +2,7 @@ import { BridgeComponent } from "@hotwired/hotwire-native-bridge"
 
 export default class FavoriteToggleController extends BridgeComponent {
 	static component = "favoriteToggle"
+	static classes = ["favorite", "notFavorite"]
 
 	connect() {
 		super.connect()
@@ -24,16 +25,18 @@ export default class FavoriteToggleController extends BridgeComponent {
 		}
 		this.send("setFavorite", {episode_url}, message => {
 			if (message.data){
-				console.log("setFavorite received! ", message.data.isFavorite)
+				console.log("setFavorite received! ", message.data.is_favorite)
 				const isFavorite = message.data.isFavorite
-				console.log("isFavorite is ", message.data.isFavorite)
+
+				if (isFavorite) {
+					this.iconTarget.classList.add(this.favoriteClass)
+					this.iconTarget.classList.remove(this.notFavoriteClass)
+				} else {
+					this.iconTarget.classList.remove(this.favoriteClass)
+					this.iconTarget.classList.add(this.notFavoriteClass)
+				}
 			}
 		})
-		this.send("display", { title, items }, message =>  {
-	      const selectedIndex = message.data.selectedIndex
-
-	      selectedItem.click()
-	    })
 	}
 
 	toggle() {

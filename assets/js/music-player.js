@@ -69,8 +69,10 @@ function renderSaveButton(duration) {
         data-action="click->bridge--favorite-toggle#toggle" \
         data-bridge-episode_url="${audio.src}"
         data-bridge-episode_duration="${duration}"/> \
-        <i class="fas fa-cloud-download-alt"></i>\
-        <i class="fas fa-trash-alt"></i>\
+        <i class="fas" \
+          data-bridge--favorite-toggle-favorite-class="fa-trash-alt" \
+          data-bridge--favorite-toggle-not-favorite-class="fa-cloud-download-alt"> \
+        </i>\
       </a>`;
   }
 }

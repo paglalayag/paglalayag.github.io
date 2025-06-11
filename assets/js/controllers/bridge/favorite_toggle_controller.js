@@ -11,6 +11,7 @@ export default class FavoriteToggleController extends BridgeComponent {
 		const episode_duration = this.bridgeElement.bridgeAttribute("episode_duration")
 		this.send("connect", {episode_url, episode_duration}, message => {
 			console.log("setFavorite received! ", message.data.is_favorite)
+			console.log("before setFavoriteIcon: ", this.isFavoriteValue)
 			this.isFavoriteValue = message.data.is_favorite
 			this.setFavoriteIcon()
 		})

@@ -14,6 +14,7 @@ export default class FavoriteToggleController extends BridgeComponent {
 			this.isFavoriteValue = message.data.is_favorite
 
 			this.hideIcon("fa-spinner")
+			this.hideIcon("fa-pulse")
 			this.setFavoriteIcon()
 		})
 	}

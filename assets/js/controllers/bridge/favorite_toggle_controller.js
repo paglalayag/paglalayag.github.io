@@ -13,21 +13,18 @@ export default class FavoriteToggleController extends BridgeComponent {
 			console.log("setFavorite received! ", message.data.is_favorite)
 			console.log("before setFavoriteIcon: ", this.isFavoriteValue)
 			this.isFavoriteValue = message.data.is_favorite
-			this.setFavoriteIcon()
+			this.toggleFavoriteIcon()
 		})
 	}
 
-	setFavoriteIcon() {
-		console.log("inside setFavoriteIcon: ", this.isFavoriteValue)
+	hideLoadingIcon() {
 		this.iconIsLoadingTarget.classList.toggle("hidden")
+	}
+	toggleFavoriteIcon() {
 		if (this.isFavoriteValue) {
-			console.log("NotFavorite! classList beforeToggle", this.iconNotFavoriteTarget.classList.toString())
-			this.iconNotFavoriteTarget.classList.toggle("hidden")
-			console.log("NotFavorite! classList afterToggle", this.iconNotFavoriteTarget.classList.toString())
-		} else {
-			console.log("IsFavorite! classList beforeToggle", this.iconIsFavoriteTarget.classList.toString())
 			this.iconIsFavoriteTarget.classList.toggle("hidden")
-			console.log("IsFavorite! classList afterToggle", this.iconIsFavoriteTarget.classList.toString())
+		} else {
+			this.iconNotFavoriteTarget.classList.toggle("hidden")
 		}
 	}
 
@@ -36,6 +33,7 @@ export default class FavoriteToggleController extends BridgeComponent {
 
 		console.log("toggle!", this)
 		this.send("toggle", {episode_url}, () => {
+			toggleFavoriteIcon()
 			this.bridgeElement.click()
 		})
 	}

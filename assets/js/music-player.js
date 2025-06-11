@@ -67,10 +67,12 @@ function renderSaveButton(duration) {
     document.getElementById('save_button').innerHTML =
       `<a href="#" data-controller="bridge--favorite-toggle" \
         data-action="click->bridge--favorite-toggle#toggle" \
-        data-bridge-episode_url="${audio.src}"
+        data-bridge--favorite-toggle-visible-value="?" \
+        data-bridge-episode_url="${audio.src}" \
         data-bridge-episode_duration="${duration}"/> \
-        <i class="fas fa-cloud-download-alt" data-bridge--favorite-toggle-target="iconNotFavorite"></i>\
-        <i class="fas fa-trash-alt" data-bridge--favorite-toggle-target="iconIsFavorite"></i>\
+        <i class="fas fa-cloud-download-alt hidden" data-bridge--favorite-toggle-target="iconNotFavorite"></i>\
+        <i class="fas fa-trash-alt hidden" data-bridge--favorite-toggle-target="iconIsFavorite"></i>\
+        <i class="fas fa-spinner" data-bridge--favorite-toggle-target="iconIsLoading"></i>\
       </a>`;
   }
 }

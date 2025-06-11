@@ -2,21 +2,23 @@ import { BridgeComponent } from "@hotwired/hotwire-native-bridge"
 
 export default class FavoriteToggleController extends BridgeComponent {
 	static component = "favoriteToggle"
-	static targets = ["iconIsFavorite", "iconNotFavorite"]
+	static targets = ["iconIsFavorite","iconIsLoading", "iconNotFavorite"]
+	static values = { "isFavorite" }
 
 	connect() {
 		super.connect()
-
 		const episode_url = this.bridgeElement.bridgeAttribute("episode_url")
 		const episode_duration = this.bridgeElement.bridgeAttribute("episode_duration")
 		this.send("connect", {episode_url, episode_duration}, message => {
 			console.log("setFavorite received! ", message.data.is_favorite)
-			this.setFavorite(message.data.is_favorite)
+			this.isFavoriteValue = message.data.is_favorite
 		})
+		this.setFavoriteIcon()
 	}
 
-	setFavorite(isFavorite) {
-		if (isFavorite) {
+	setFavorite() {
+		this.iconIsLoadingTarget.classList.toggle("hidden")
+		if (this.isFavoriteValue) {
 			console.log("NotFavorite! classList beforeToggle", this.iconNotFavoriteTarget.classList.toString())
 			this.iconNotFavoriteTarget.classList.toggle("hidden")
 			console.log("NotFavorite! classList afterToggle", this.iconNotFavoriteTarget.classList.toString())

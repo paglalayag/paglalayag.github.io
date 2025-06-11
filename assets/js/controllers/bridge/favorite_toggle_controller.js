@@ -34,12 +34,14 @@ export default class FavoriteToggleController extends BridgeComponent {
 	}
 
 	hideIcon(iconClass) {
+		console.log("hiding icon ", iconClass)
 		if(this.favoriteIconTarget.classList.contains("fa-spinner")) {
 			this.favoriteIconTarget.classList.remove("fa-pulse")
 		}
 	}
 
 	showIcon(iconClass) {
+		console.log("showing icon ", iconClass)
 		if(!this.favoriteIconTarget.classList.contains(iconClass)) {
 			this.favoriteIconTarget.classList.add(iconClass)
 		}

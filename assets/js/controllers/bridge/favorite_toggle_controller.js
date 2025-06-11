@@ -29,9 +29,13 @@ export default class FavoriteToggleController extends BridgeComponent {
 				const isFavorite = message.data.isFavorite
 
 				if (isFavorite) {
+					console.log("NotFavorite! classList beforeToggle", iconNotFavoriteTarget.classList)
 					this.iconNotFavoriteTarget.classList.toggle("hidden")
+					console.log("NotFavorite! classList afterToggle", iconNotFavoriteTarget.classList)
 				} else {
+					console.log("IsFavorite! classList beforeToggle", iconNotFavoriteTarget.classList)
 					this.iconIsFavoriteTarget.classList.toggle("hidden")
+					console.log("IsFavorite! classList afterToggle", iconNotFavoriteTarget.classList)
 				}
 			}
 		})

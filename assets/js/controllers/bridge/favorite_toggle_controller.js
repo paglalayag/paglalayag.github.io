@@ -3,7 +3,7 @@ import { BridgeComponent } from "@hotwired/hotwire-native-bridge"
 export default class FavoriteToggleController extends BridgeComponent {
 	static component = "favoriteToggle"
 	static targets = ["iconIsFavorite","iconIsLoading", "iconNotFavorite"]
-	static values = { "isFavorite" }
+	static values = { isFavorite }
 
 	connect() {
 		super.connect()

@@ -2,7 +2,7 @@ import { BridgeComponent } from "@hotwired/hotwire-native-bridge"
 
 export default class FavoriteToggleController extends BridgeComponent {
 	static component = "favoriteToggle"
-	static targets = ["iconIsFavorite","iconIsLoading", "iconNotFavorite"]
+	static targets = ["favoriteIcon"]
 	static values = { isFavorite: Boolean }
 
 	connect() {
@@ -13,19 +13,10 @@ export default class FavoriteToggleController extends BridgeComponent {
 			console.log("setFavorite received! ", message.data.is_favorite)
 			console.log("before setFavoriteIcon: ", this.isFavoriteValue)
 			this.isFavoriteValue = message.data.is_favorite
-			this.toggleFavoriteIcon()
-		})
-	}
 
-	hideLoadingIcon() {
-		this.iconIsLoadingTarget.classList.toggle("hidden")
-	}
-	toggleFavoriteIcon() {
-		if (this.isFavoriteValue) {
-			this.iconIsFavoriteTarget.classList.toggle("hidden")
-		} else {
-			this.iconNotFavoriteTarget.classList.toggle("hidden")
-		}
+			hideIcon("fa-spinner")
+			this.setFavoriteIcon()
+		})
 	}
 
 	toggle() {
@@ -36,5 +27,32 @@ export default class FavoriteToggleController extends BridgeComponent {
 			toggleFavoriteIcon()
 			this.bridgeElement.click()
 		})
+	}
+
+	hideIcon(iconClass) {
+		if(this.favoriteIconTarget.classList.contains("fa-spinner")) {
+			this.favoriteIconTarget.classList.remove("fa-spinner")
+		}
+	}
+
+	showIcon(iconClass) {
+		if(!this.favoriteIconTarget.classList.contains(iconClass)) {
+			this.favoriteIconTarget.classList.add(iconClass)
+		}
+	}
+
+	setFavoriteIcon() {
+		if (this.isFavoriteValue) {
+			hideIcon("fa-cloud-download-alt")
+			showIcon("fa-trash-alt")
+		} else {
+			hideIcon("fa-trash-alt")
+			showIcon("fa-cloud-download-alt")
+		}
+	}
+
+	toggleFavoriteIcon() {
+		this.isFavoriteValue = !this.isFavoriteValue
+		this.setFavoriteIcon()
 	}
 }

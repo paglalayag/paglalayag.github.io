@@ -70,9 +70,7 @@ function renderSaveButton(duration) {
         data-bridge--favorite-toggle-is-favorite-value="true" \
         data-bridge-episode_url="${audio.src}" \
         data-bridge-episode_duration="${duration}"/> \
-        <i class="fas fa-cloud-download-alt hidden" data-bridge--favorite-toggle-target="iconNotFavorite"></i>\
-        <i class="fas fa-trash-alt hidden" data-bridge--favorite-toggle-target="iconIsFavorite"></i>\
-        <i class="fas fa-spinner" data-bridge--favorite-toggle-target="iconIsLoading"></i>\
+        <i class="fas fa-spinner" data-bridge--favorite-toggle-target="favoriteIcon"></i>\
       </a>`;
   }
 }

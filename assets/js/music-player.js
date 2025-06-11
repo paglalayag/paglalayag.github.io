@@ -70,7 +70,7 @@ function renderSaveButton(duration) {
         data-bridge--favorite-toggle-is-favorite-value="true" \
         data-bridge-episode_url="${audio.src}" \
         data-bridge-episode_duration="${duration}"/> \
-        <i class="fas fa-spinner fa-pulse" data-bridge--favorite-toggle-target="favoriteIcon"></i>\
+        <i class="fas" data-bridge--favorite-toggle-target="favoriteIcon"></i>\
       </a>`;
   }
 }

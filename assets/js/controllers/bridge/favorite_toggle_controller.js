@@ -9,36 +9,22 @@ export default class FavoriteToggleController extends BridgeComponent {
 
 		const episode_url = this.bridgeElement.bridgeAttribute("episode_url")
 		const episode_duration = this.bridgeElement.bridgeAttribute("episode_duration")
-		this.send("connect", {episode_url, episode_duration}, () => {
+		this.send("connect", {episode_url, episode_duration}, message => {
+			console.log("setFavorite received! ", message.data.is_favorite)
+				setFavorite(message.data.is_favorite)
 		})
-
-		this.setFavorite(episode_url) //the native-bridge will only respond to events it has already received a message from
 	}
 
-	setFavorite(episode_url_from_connect) {
-		var episode_url
-
-		if (this.bridgeElement.bridgeAttribute("episode_url")) {
-			episode_url = this.bridgeElement.bridgeAttribute("episode_url")
+	setFavorite(isFavorite) {
+		if (isFavorite) {
+			console.log("NotFavorite! classList beforeToggle", this.iconNotFavoriteTarget.classList.toString())
+			this.iconNotFavoriteTarget.classList.toggle("hidden")
+			console.log("NotFavorite! classList afterToggle", this.iconNotFavoriteTarget.classList.toString())
 		} else {
-			episode_url = episode_url_from_connect
+			console.log("IsFavorite! classList beforeToggle", this.iconIsFavoriteTarget.classList.toString())
+			this.iconIsFavoriteTarget.classList.toggle("hidden")
+			console.log("IsFavorite! classList afterToggle", this.iconIsFavoriteTarget.classList.toString())
 		}
-		this.send("setFavorite", {episode_url}, message => {
-			if (message.data){
-				console.log("setFavorite received! ", message.data.is_favorite)
-				const isFavorite = message.data.isFavorite
-
-				if (isFavorite) {
-					console.log("NotFavorite! classList beforeToggle", this.iconNotFavoriteTarget.classList.toString())
-					this.iconNotFavoriteTarget.classList.toggle("hidden")
-					console.log("NotFavorite! classList afterToggle", this.iconNotFavoriteTarget.classList.toString())
-				} else {
-					console.log("IsFavorite! classList beforeToggle", this.iconIsFavoriteTarget.classList.toString())
-					this.iconIsFavoriteTarget.classList.toggle("hidden")
-					console.log("IsFavorite! classList afterToggle", this.iconIsFavoriteTarget.classList.toString())
-				}
-			}
-		})
 	}
 
 	toggle() {

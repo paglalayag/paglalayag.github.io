@@ -11,10 +11,9 @@ export default class FavoriteToggleController extends BridgeComponent {
 		const episode_duration = this.bridgeElement.bridgeAttribute("episode_duration")
 		this.send("connect", {episode_url, episode_duration}, message => {
 			console.log("setFavorite received! ", message.data.is_favorite)
-			console.log("before setFavoriteIcon: ", this.isFavoriteValue)
 			this.isFavoriteValue = message.data.is_favorite
 
-			hideIcon("fa-spinner")
+			this.hideIcon("fa-spinner")
 			this.setFavoriteIcon()
 		})
 	}
@@ -24,7 +23,7 @@ export default class FavoriteToggleController extends BridgeComponent {
 
 		console.log("toggle!", this)
 		this.send("toggle", {episode_url}, () => {
-			toggleFavoriteIcon()
+			this.toggleFavoriteIcon()
 			this.bridgeElement.click()
 		})
 	}
@@ -43,11 +42,11 @@ export default class FavoriteToggleController extends BridgeComponent {
 
 	setFavoriteIcon() {
 		if (this.isFavoriteValue) {
-			hideIcon("fa-cloud-download-alt")
-			showIcon("fa-trash-alt")
+			this.hideIcon("fa-cloud-download-alt")
+			this.showIcon("fa-trash-alt")
 		} else {
-			hideIcon("fa-trash-alt")
-			showIcon("fa-cloud-download-alt")
+			this.hideIcon("fa-trash-alt")
+			this.showIcon("fa-cloud-download-alt")
 		}
 	}
 

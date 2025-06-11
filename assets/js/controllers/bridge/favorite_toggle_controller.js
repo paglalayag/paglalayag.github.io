@@ -34,16 +34,16 @@ export default class FavoriteToggleController extends BridgeComponent {
 	}
 
 	hideIcon(iconClass) {
-		console.log("hiding icon ", iconClass)
 		if(this.favoriteIconTarget.classList.contains(iconClass)) {
+			console.log("hiding icon ", iconClass)
 			this.favoriteIconTarget.classList.remove(iconClass)
 		}
 		 console.log("classlist after hide", this.favoriteIconTarget.classList.toString())
 	}
 
 	showIcon(iconClass) {
-		console.log("showing icon ", iconClass)
 		if(!this.favoriteIconTarget.classList.contains(iconClass)) {
+			console.log("showing icon ", iconClass)
 			this.favoriteIconTarget.classList.add(iconClass)
 		}
 		console.log("classlist after show", this.favoriteIconTarget.classList.toString())

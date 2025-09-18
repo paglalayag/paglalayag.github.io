@@ -13,4 +13,6 @@ So I guess we finally found an excuse to take a trip.
 
 [Allan Gray](https://www.sunetrike.com/team/al-gray) - sunEtrike 
 
+For wellness, longevity and martial arts stuff, check us on [Instagram](https://www.instagram.com/paglalayag/)
+
 ![Mic n Al](/assets/img/al-n-mic.jpg)

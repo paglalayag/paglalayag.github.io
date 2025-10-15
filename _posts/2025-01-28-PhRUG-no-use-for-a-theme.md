@@ -1,5 +1,5 @@
 ---
-title: Philippine Ruby Users Group | No Use for a Theme
+title: PhRUG | No Use for a Theme
 layout: post
 hero_image: /assets/img/PhRUG/no-use-for-a-theme-banner.png
 image: /assets/imgPhRUG/PhRUG-logo.png

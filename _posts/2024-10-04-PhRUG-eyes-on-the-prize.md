@@ -1,5 +1,5 @@
 ---
-title: Philippine Ruby Users Group | Eyes on the prize
+title: PhRUG | Eyes on the prize
 layout: post
 hero_image: /assets/img/PhRUG/phrug-prioritizing.png
 image: /assets/imgPhRUG/PhRUG-logo.png

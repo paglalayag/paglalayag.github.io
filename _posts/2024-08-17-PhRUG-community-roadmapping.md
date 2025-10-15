@@ -1,5 +1,5 @@
 ---
-title: Philippine Ruby Users Group | A night of Community roadmapping
+title: PhRUG | A night of Community roadmapping
 layout: post
 hero_image: /assets/img/PhRUG/phrug-roadmap-meetup.jpg
 image: /assets/imgPhRUG/PhRUG-logo.png

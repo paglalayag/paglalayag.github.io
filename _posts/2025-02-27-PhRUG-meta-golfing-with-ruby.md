@@ -1,5 +1,5 @@
 ---
-title: Philippine Ruby Users Group | Meta-Golfing with Ruby!
+title: PhRUG | Meta-Golfing with Ruby!
 layout: post
 hero_image: /assets/img/PhRUG/phrug-meta-golfing.png
 image: /assets/imgPhRUG/PhRUG-logo.png

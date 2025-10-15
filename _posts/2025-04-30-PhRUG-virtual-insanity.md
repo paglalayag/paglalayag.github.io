@@ -1,5 +1,5 @@
 ---
-title: Philippine Ruby Users Group | Virtual Insanity
+title: PhRUG | Virtual Insanity
 layout: post
 hero_image: /assets/img/PhRUG/phrug-virtual-insanity.png
 image: /assets/imgPhRUG/PhRUG-logo.png

@@ -1,5 +1,5 @@
 ---
-title: Philippine Ruby Users Group | Hack the Hybrid
+title: PhRUG | Hack the Hybrid
 layout: post
 hero_image: /assets/img/PhRUG/hack-the-hybrid-attendees.jpg
 image: /assets/imgPhRUG/PhRUG-logo.png

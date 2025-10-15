@@ -1,5 +1,5 @@
 ---
-title: Philippine Ruby Users Group | Heading Hybrid
+title: PhRUG | Heading Hybrid
 layout: post
 hero_image: /assets/img/PhRUG/heading-hybrid-event-page.png
 image: /assets/imgPhRUG/PhRUG-logo.png

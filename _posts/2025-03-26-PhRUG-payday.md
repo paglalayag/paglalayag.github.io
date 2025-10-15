@@ -1,5 +1,5 @@
 ---
-title: Philippine Ruby Users Group | Payday!
+title: PhRUG | Payday!
 layout: post
 hero_image: /assets/img/PhRUG/phrug-payday.jpg
 image: /assets/imgPhRUG/PhRUG-logo.png

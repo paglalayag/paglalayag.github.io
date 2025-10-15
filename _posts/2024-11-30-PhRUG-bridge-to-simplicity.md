@@ -1,5 +1,5 @@
 ---
-title: Philippine Ruby Users Group | Bridge to Simplicity
+title: PhRUG | Bridge to Simplicity
 layout: post
 hero_image: /assets/img/PhRUG/phrug-bridge-to-simplicity-meetup.jpg
 image: /assets/imgPhRUG/PhRUG-logo.png

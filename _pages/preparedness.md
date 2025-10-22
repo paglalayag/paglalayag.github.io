@@ -4,7 +4,8 @@ title: Preparedness Resources
 
 comments: true
 
-permalink: /preparedness/
+permalink: /handa/
+redirect_from: /preparedness
 ---
 
 # Here's our preparedness resource page!!

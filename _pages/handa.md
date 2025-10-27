@@ -37,7 +37,7 @@ You can review the poster here:
 
 Despite threat looming, ongoing public safety threat that Taal poses to the people of Batangas, it is also a `rare gem, living laboratory and national treasure`.
 
-While disaster response is primarily a government function Here at Paglalayag, we recognise the value of `developing prepared minds and communities`.
+Disaster response is primarily a government function.  But here at Paglalayag, we also recognise the value of `developing prepared minds and communities`.
 
 We don't know how this project will evolve going forward but look forward to working to engaged citizens with a keen interest and love for the natural sciences, to develop better `disaster preparedness plans/programs for vulnerable and potentially affected Filipino communities` in the coming years.
 

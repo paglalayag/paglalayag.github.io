@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Preparedness Resources
+title: Let's get Handa!
 
 comments: true
 

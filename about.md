@@ -5,14 +5,14 @@ title: About
 
 # About us
 
+I started posting stuff on Paglalayag that was offbrand for my [sunEtrike](https://www.sunetrike.com/team/al-gray) stuff. 
 
-We've been friends since 2017 and from day 1 we were talking about the digital and internet tools that were most exciting to us.
-So I guess we finally found an excuse to take a trip.
+It's all very amateur. 
 
-[Mic Carlos](https://www.linkedin.com/in/michael-carlos-3008ab31) - CBC Magna 
+The cabal will be able to find me easy enough. If they have any concerns.
 
-[Allan Gray](https://www.sunetrike.com/team/al-gray) - sunEtrike 
+![Al](/assets/img/amateur.jpeg)
 
-For wellness, longevity and martial arts stuff, check us on [Instagram](https://www.instagram.com/paglalayag/)
+For artsy stuff (inluding martial), please check [Instagram](https://www.instagram.com/paglalayag/)
 
-![Mic n Al](/assets/img/al-n-mic.jpg)
+[twitter is here](https://x.com/banal_na_graial). But I don't visit  these days.

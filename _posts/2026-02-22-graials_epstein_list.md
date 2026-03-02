@@ -1,5 +1,5 @@
 ---
-title: Graial's Epstein Files List
+title: Graial's review of Edward Jay Epstein's emails from Jan 30 DOJ release
 layout: investigative
 hero_image: 
 image: 

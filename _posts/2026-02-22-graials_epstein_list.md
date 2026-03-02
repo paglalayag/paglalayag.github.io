@@ -85,6 +85,7 @@ Tuloy tuloy lang!
 
 It's interesting to research an [investigative journalist](https://www.telegraph.co.uk/obituaries/2024/02/14/edward-jay-epstein-writer-conspiracies-died-obituary/). The man made his living researching scandals and conspiracy.
 [According to Ed](https://airmail.news/issues/2019-9-14/my-tea-with-jeffrey-epstein), he first met Jeffrey in 1987, at a party of Isabel Goldsmith (this will come up in the emails).
+1987 was also the year I was born, and the year that he was recruited to [Towers Financial](https://www.vanityfair.com/news/2003/03/jeffrey-epstein-200303). The biggest Ponzi scheme on record prior to Madoff.
 
 Let's also be mindful that Ms Maxwell is the daughter of the notorious Robert Maxwell. You can search and learn his story from whatever sources you consider trustworthy.
 
@@ -149,7 +150,7 @@ This email with `Isi` is interesting because they are trying to arrange to meet 
 
 On the same day as the email between Ghislaine and Isabel, there's also an exchange between Peggy Siegel and JEE and bantering about EJE's book about Bernie Madoff. The emails are probably unrelated to each other.
 
-It's interesting to look upon emails of prostitution pyramid schemer JEE on his way up making comments about a ponzi schemer, Madoff, on his way down.
+It's interesting to look upon emails of prostitution pyramid schemer JEE on his way up making comments about a ponzi schemer, Madoff, on his way down. Alternatively, if you believe [Steven Hoffenberg's account](https://www.oxygen.com/true-crime-buzz/steven-hoffenberg-says-jeffrey-epstein-helped-him-with-ponzi-scheme), a ponzi schemer who got away with it.
 
 As an unrelated Jul 13 email indicates, he is only [recently released from jail at this time](https://apnews.com/article/trump-epstein-investigation-records-timeline-545c371ee3dd3142355a26d27829c188).
 

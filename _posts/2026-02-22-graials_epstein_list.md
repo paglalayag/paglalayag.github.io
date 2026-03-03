@@ -54,7 +54,11 @@ On that basis, I opted to look very specifically into what else was in the files
 
 I'm hearing all of those names for the first time. I'm also very disconnected from all of this and have no way of `verifying` any of it. 
 
-After going through all the emails, removing duplicates and `other Ed's`, I finally ended up with 120 emails of interest (including some interesting sidenotes). Most of them are from 2012 and 2013.
+After going through all the emails, removing duplicates (except duplicates of `Shadow Commission` email) and `other Ed's`, I finally ended up 111 emails of interest (including some interesting sidenotes). Most of them are from 2012 and 2013.
+This is made up of:
+ - 56 emails from Edward
+ - 17 emails to Edward
+ - 7 emails mentioning Edward
 
 This has all been compiled by me. I present some impressions but am making no attempt to accuse anyone of criminality. This article does discuss at least one actor who has been found guilty, convicted and pardoned.
 
@@ -256,7 +260,7 @@ More discussion about the stains. As well as JEE returning to NYC.
 
 ![EFTA01898387](/assets/img/jee/feb28/EFTA01898387.png){:width="90%"}
 
-| 03/17/13 | [EFTA01898387](https://web.archive.org/web/20260131055611/https://www.justice.gov/epstein/files/DataSet%2010/EFTA01898387.pdf) | Re:NY | Ed | Jeff |
+| 03/17/13 | [EFTA01898387](https://web.archive.org/web/20260131055611/https://www.justice.gov/epstein/files/DataSet%2010/EFTA01898387.pdf) | Ed | Jeff | Re:NY |
 
 ![EFTA01770636](/assets/img/jee/feb28/EFTA01770636.png){:width="90%"}
 

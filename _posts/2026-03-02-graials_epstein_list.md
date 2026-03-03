@@ -4,7 +4,6 @@ layout: investigative
 hero_image: 
 image: 
 categories: [presentations]
-
 ---
 
 # Contents

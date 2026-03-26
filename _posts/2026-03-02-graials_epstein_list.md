@@ -176,6 +176,8 @@ Could it be a place where JEE's original email wrote `could dt` instead of `coul
 
 No idea. But I've seen some claims about such broad sweeping automated retractions that catch typos by mistake.
 
+*Post-publication note: Redacting two letters is very common in some documents as can be seen in one of [the craziest documents I've seen so far](https://web.archive.org/web/20260131125741/https://www.justice.gov/epstein/files/DataSet%209/EFTA00078198.pdf)*
+
 ![EFTA00738123](/assets/img/jee/feb28/EFTA00738123.png){:width="90%"}
 
 | 07/26/09 | [EFTA00738123](https://web.archive.org/web/20260131100354/https://www.justice.gov/epstein/files/DataSet%209/EFTA00738123.pdf) | jeevacation | Peggy Siegel | Re: The Lone Swindler Theory: Did Madoff Act Alone? (Draft:... |

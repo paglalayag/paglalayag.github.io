@@ -9,18 +9,19 @@ redirect_from: 2024/05/19/malaking-kambal.html
 ---
 
 | *naglansad lang dalawang dalaga* | ᜈᜄ᜔ᜎᜈ᜔ᜐᜇ᜔  ᜎᜅ᜔  ᜇᜎᜏᜅ᜔  ᜇᜎᜄ |
-| *sigla Lara saliw liit Elias* | ᜐᜒᜄ᜔ᜎ  ᜎᜇ  ᜐᜎᜒᜏ᜔  ᜎᜒᜂᜆ᜔  ᜂᜎᜒᜀᜐ᜔ |
-| *masaklap kapalaran natuklas* | ᜋᜐᜃ᜔ᜎᜉ᜔  ᜃᜉᜎᜇᜈ᜔  ᜈᜆᜓᜃ᜔ᜎᜐ᜔ |
+| *masigla Lara nagsaliw Elias* | ᜋᜐᜒᜄ᜔ᜎ ᜎᜇ ᜈᜄ᜔ᜐᜎᜒᜏ᜔ ᜂᜎᜒᜀᜐ᜔ |
+| *masaklap kapalara'y matutuklas* | ᜋᜐᜃ᜔ ᜎᜉ᜔ ᜃᜉᜎᜇ'ᜌ᜔ ᜈᜆᜓᜆᜓᜃ᜔ ᜎᜐ᜔ |
 | *walang malay nagtaglay maalaga* | ᜏᜎᜅ᜔  ᜋᜎᜌ᜔  ᜈᜄ᜔ᜆ ᜄ᜔ᜎᜌ᜔  ᜋᜀᜎᜅ |
-| *lubos pulseras nalawak halaga* | ᜎᜓᜊᜓᜐ᜔  ᜉᜓᜎ᜔ᜐᜒᜇᜐ᜔  ᜈᜎᜏᜃ᜔  ᜑᜎᜄ |
-| *kalahati loob balabal nagligtas* | ᜃᜎᜑᜆ᜔  ᜎᜓᜁᜊ᜔  ᜊᜎᜊᜎ᜔  ᜈᜄ᜔ᜎᜒᜄ᜔ᜆᜐ᜔ |
-| *paalam nila tulad palaspas* |ᜉᜀᜎᜋ᜔  ᜈᜒᜎ  ᜆᜓᜎᜇ᜔  ᜉᜎᜐ᜔ᜉᜐ᜔ |
-|*nagpili sumalungat talaga* | ᜈᜄ᜔ᜉᜒᜎᜒ  ᜐᜓᜋᜎᜓᜅᜆ᜔  ᜆᜎᜄ |
+| *magkakalakip pulseras mahalaga* | ᜋᜄ᜔ᜃᜃᜎᜃᜒᜉ᜔ ᜉᜓᜎ᜔ ᜐᜒᜇᜐ᜔ ᜋᜑᜎᜄ |
+| *balabal kalahati'y nakaligtas* | ᜊᜎᜊᜎ᜔ ᜃᜎᜑᜆᜒ'ᜌ᜔ ᜈᜃᜎᜒᜄ᜔ᜆᜐ᜔ |
+| *pamamaalam nila tulad palaspas* |ᜉᜋᜋᜀᜎᜋ᜔ ᜈᜒᜎ ᜆᜓᜎᜇ᜔ ᜉᜎᜐ᜔ᜉᜐ᜔ |
+|*pinaglayo nagkaiba talaga* | ᜉ
+ᜈᜄ᜔ᜎᜌᜓ ᜈᜄ᜔ᜃᜂᜊ ᜆᜎᜄ |
 | ____________________________________ | ____________________________________ |
-| *Matulis taluktok ukol kanluran* | ᜋᜆᜓᜎᜒᜐ᜔   ᜆᜎᜒᜃ᜔ᜆᜓᜃ᜔  ᜁᜃᜓᜎ᜔   ᜃᜈ᜔ᜎᜓᜇᜈ᜔  |
-| *ulupong masalubong almusal* | ᜁᜎᜓᜉᜓᜅ᜔  ᜋᜐᜎᜓᜊᜓᜅ᜔  ᜀᜎ᜔ᜋᜓᜐᜎ᜔ |
-| *lumagay Lara walang gulatan* |ᜎᜓᜋᜄᜌ᜔  ᜎᜇ  ᜏᜎᜅ᜔  ᜄᜓᜎᜆᜈ᜔ |
+| *Madilim lalim lawa pasilangan* | ᜋᜇᜒᜎᜒᜋ᜔ ᜎᜎᜒᜋ᜔ ᜎᜏ ᜉᜐᜒᜎᜅᜈ᜔  |
+| *lumapit madulas palos buhol* | ᜎᜓᜋᜉᜆ᜔ ᜋᜇᜓᜎᜐ᜔ ᜉᜎᜓᜐ᜔ ᜊᜓᜑᜓᜎ᜔ |
+| *tinagpas Elias nanatili kasarimlan* |ᜆᜒᜈᜄᜉᜐ᜔ ᜂᜎᜒᜀᜐ᜔ ᜈᜈᜆᜒᜎᜒ ᜃᜐᜇᜒᜋ᜔ ᜎᜈ᜔ |
 | ____________________________________ | ____________________________________ |
-|*Madilim lalim lawa silangan* | ᜋᜇᜒᜎᜒᜋ᜔  ᜎᜎᜒᜋ᜔  ᜎᜏ  ᜐᜒᜎᜅᜈ᜔  |
-| *madulas palos lumapit kumiwal* | ᜋᜇᜓᜎᜐ᜔  ᜉᜎᜓᜐ᜔  ᜎᜓᜋᜉᜒᜆ᜔  ᜃᜓᜋᜒᜏᜎ᜔ |
-| *binaliti Elias bulalas baliwan* | ᜊᜒᜈᜎᜒᜆᜒ  ᜂᜎᜒᜀᜐ᜔ ᜊᜎᜒᜏᜈ᜔  ᜊᜎᜒᜏ᜔ |
+|*Matulis taluktok pakanluran* | ᜋᜆᜓᜎᜒᜐ᜔ ᜆᜎᜒᜃ᜔ ᜆᜓᜃ᜔ ᜉᜃᜈ᜔ ᜎᜓᜇᜈ᜔  |
+| *ulupong masalubong almusal* | ᜁᜎᜓᜉᜓᜅ᜔ ᜋᜐᜎᜓᜊᜓᜅ᜔ ᜀᜎ᜔ ᜋᜓᜐᜎ᜔ |
+| *pumalagay Lara walang gulatan* | ᜉᜓᜋᜎᜄᜌ᜔ ᜎᜇ ᜏᜎᜅ᜔ ᜄᜓᜎᜆᜈ᜔ |

@@ -12,7 +12,3 @@ categories: tula
 | *tawiran sumaklaw daw* | ᜆᜏᜒᜇᜈ᜔  ᜐᜓᜋᜃ᜔ᜎᜏ᜔  ᜇᜏ᜔ |
 | *kawan pawikan umapaw* | ᜃᜏᜈ᜔  ᜉᜏᜒᜃᜈ᜔  ᜁᜋᜉᜏ᜔ |
 | *nagwakas kawawa bumuwelta katatawanan* | ᜈᜄᜏᜃᜐ᜔  ᜃᜏᜏ  ᜊᜓᜋᜓᜏᜒᜎ᜔ᜆ  ᜃᜆᜆᜏᜈᜈ᜔ |
-
-
-
-
